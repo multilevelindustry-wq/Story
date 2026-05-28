@@ -2,7 +2,7 @@ const posts = [
     {
     slug: "The-girl-who-borrowed-tomorrow-fantasy, mystery, drama",
     title: "The Girl Who Borrowed Tomorrow-Chapter 1, Story by goddess of prime",
-    image: "file_00000000866c71f4a5b907fc38ec01b3.png",
+    image: "https://www.image2url.com/r2/default/images/1779993814699-6365e400-cf36-41db-83fc-71c2bf5f6c58.webp",
     excerpt: "Chapter 1 — The Day Mina Stole an Extra Hour",
     content: `
       <p>
@@ -319,7 +319,7 @@ Something enormous awakened.</p>
   {
     slug: "best-food-for-healthy-kidney",
     title: "My Husband Shadow Lives Upstairs",
-    image: "file_000000007e28720a9295faef6aaa2a56.png",
+    image: "https://www.image2url.com/r2/default/images/1779994049723-99e7773c-e35b-49ad-b58d-c3f1fe0be38c.png",
     excerpt: "Chapter One ",
     content: `
       <p>Kidney health is important for removing waste and balancing fluids.</p>
