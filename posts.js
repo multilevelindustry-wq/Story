@@ -337,7 +337,7 @@ Something enormous awakened.</p>
        {
     slug: "Understanding-Diabetes-Symptoms",
     title: "I Sold My Heart For Seven Days ",
-    image: "https://images.unsplash.com/photo-1579154204601-01588f351e67?q=80&w=1200&auto=format&fit=crop",
+    image: "https://www.image2url.com/r2/default/images/1779996038799-170774bd-9b92-4ecf-8e4a-cb8ae0d73489.jpg",
     excerpt: "Chapter One ",
     content: `
       <p>Diabetes is a chromebook .</p>
@@ -356,7 +356,7 @@ Something enormous awakened.</p>
   {
     slug: "Mental-Health-and-Stress",
     title: "The Night Heaven Lost An Angel ",
-    image: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?q=80&w=1200&auto=format&fit=crop",
+    image: "https://www.image2url.com/r2/default/images/1779995881191-a888a4df-203d-4c29-aa3d-42666ead6615.jpg",
     excerpt: "Chapter One ",
     content: `
       <p>Mental health affects overall wellbeing.</p>
@@ -375,7 +375,7 @@ Something enormous awakened.</p>
   {
     slug: "How-to-Improve-Your-Immune",
     title: "My Mother Married My Enemy ",
-    image: "https://images.unsplash.com/photo-1514996937319-344454492b37?q=80&w=1200&auto=format&fit=crop",
+    image: "https://www.image2url.com/r2/default/images/1779995991426-aa786ce0-a076-4f15-a2bf-74281f1f9b4b.jpg",
     excerpt: "Chapter One ",
     content: `
       <p>Exercise, hydration and balanced nutrition help immunity.</p>
@@ -394,7 +394,7 @@ Something enormous awakened.</p>
   {
     slug: "The-Truth-About-Weight-Loss",
     title: "The Forgotten Son Of Atlantis",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop",
+    image: "https://www.image2url.com/r2/default/images/1779995946533-14a34188-8bf4-41e0-9ae9-01153c380860.jpg",
     excerpt: "Chapter One ",
     content: `
       <p>Crash dieting may damage metabolism.</p>
