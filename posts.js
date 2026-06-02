@@ -683,7 +683,362 @@ Something enormous awakened.</p>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
-  }
+  },
+
+    {
+    slug: "The-girl-who-borrowed-tomorrow-Chapter-2-fantasy, mystery, drama",
+    title: "The Girl Who Borrowed Tomorrow-Chapter 2, Story by goddess of prime ",
+    image: "https://www.image2url.com/r2/default/images/1779993814699-6365e400-cf36-41db-83fc-71c2bf5f6c58.webp",
+    excerpt: "Chapter 2 — The Collector of Lost Tomorrows ",
+    content: `
+      <p>
+          
+          The city shattered.
+Not literally.
+But that was how it looked to Mina.
+The hospital walls cracked like broken mirrors. The lights flickered between existence and darkness. Outside the window, entire buildings blinked in and out of reality.
+And beyond them all—
+A giant shadow moved.
+Slowly.
+Patiently.
+Watching.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+Mina couldn't see its shape clearly.
+Only its eyes.
+Two enormous silver eyes opening somewhere above the frozen skyline.
+Her heart pounded violently.
+"What is that?" she whispered.
+Ren's grip tightened around her wrist.
+"We have to leave."
+"What is it?!"
+"The Collector."
+The name sent a strange chill through the air.
+As if the universe itself recognized it.
+Another crack split across the ceiling.
+Dust rained downward.
+For the first time since time had stopped, Mina felt genuine fear.
+Not fear for herself.
+Fear for reality.
+The watch in her hand burned hotter.
+The words inside continued glowing.
+ONE LIFE FOR ONE TOMORROW
+"What does that mean?" Mina asked.
+Ren looked toward the ceiling.
+His expression was calm.
+Too calm.
+Like someone watching a disaster he had seen many times before.
+"It means you've borrowed too much."
+"I only wanted to save my mother."
+"I know."
+The answer surprised her.
+There was no accusation in his voice.
+No anger.
+Only sadness.
+The entire hospital shook.
+A deep sound echoed through the frozen city.
+BOOM.
+BOOM.
+BOOM.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+Like footsteps.
+Mina's blood ran cold.
+Something was walking toward them.
+Something impossibly large.
+Ren released her wrist.
+"Listen carefully."
+Mina nodded.
+"If the Collector reaches you, it will take back every hour you've stolen."
+Mina swallowed.
+"What happens then?"
+"You disappear."
+Silence.
+The words hit harder than any punch.
+"Disappear?"
+Ren nodded.
+"As though you never existed."
+Mina looked at her mother.
+At the hospital room.
+At her own trembling hands.
+"No."
+The word came out weak.
+"No."
+The floor shook again.
+BOOM.
+Closer now.
+Ren pulled a small silver coin from his pocket.
+Strange symbols covered its surface.
+"We're leaving."
+"Wait."
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+Mina grabbed his arm.
+"My mother."
+His eyes softened.
+"You can't save her tonight."
+Tears immediately filled Mina's eyes.
+"You don't know that."
+"I do."
+"You don't know anything!"
+Her voice echoed through the room.
+For a moment neither spoke.
+Then Ren quietly asked,
+"How many times have you used the watch?"
+Mina froze.
+She didn't answer.
+Ren already knew.
+"Twenty-three times."
+Her eyes widened.
+"How—"
+"Because after twenty uses, the Collector always wakes."
+The room suddenly felt colder.
+Twenty-three.
+She hadn't even realized she'd counted.
+Twenty-three stolen hours.
+Twenty-three attempts to change fate.
+Twenty-three tiny miracles.
+And every one had pushed her closer to this moment.
+BOOM.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+The hospital windows exploded inward.
+Frozen glass hovered in the air like floating diamonds.
+Outside, the silver eyes had moved closer.
+Far closer.
+Mina could finally make out part of its shape.
+A massive figure made from darkness and clockwork.
+Its body seemed stitched together from broken clocks, shattered calendars, and fragments of glowing stars.
+And it was staring directly at her.
+Mina couldn't breathe.
+The Collector had found her.
+"Move!"
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+Ren threw the silver coin onto the floor.
+The symbols ignited instantly.
+A circle of blue light spread beneath them.
+The Collector's eyes narrowed.
+For the first time, Mina heard its voice.
+Not through her ears.
+Inside her mind.
+RETURN WHAT YOU TOOK.
+The words felt ancient.
+Older than language.
+Older than history.
+Mina collapsed to one knee.
+Blood trickled from her nose.
+The pressure inside her head became unbearable.
+RETURN WHAT YOU TOOK.
+The hospital groaned.
+Entire sections began fading away.
+Ren grabbed Mina's shoulder.
+"Don't listen to it."
+"I can't—"
+"You can."
+His voice cut through the pain.
+For some reason, hearing him speak made the pressure weaken.
+The blue circle brightened.
+The Collector raised one enormous hand.
+The city darkened.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+And then everything vanished.
+Mina crashed onto a wooden floor.
+The impact knocked the air from her lungs.
+She groaned and slowly sat up.
+Gone were the hospital walls.
+Gone were the frozen streets.
+Gone was the Collector.
+Instead, she found herself inside a small bookstore.
+Rows of ancient books stretched from floor to ceiling.
+Thousands of clocks covered the walls.
+Every clock displayed a different time.
+Tick.
+Tick.
+Tick.
+The sound filled the room.
+Mina looked around in confusion.
+"Where are we?"
+"A safe place."
+Ren stood nearby.
+The bookstore seemed familiar.
+Then Mina remembered.
+Her eyes widened.
+"This is..."
+The antique shop.
+The place where she'd found the watch.
+The place where everything began.
+The bell above the front door suddenly rang.
+Neither of them had touched it.
+A slow set of footsteps approached from the darkness between the shelves.
+Tap.
+Tap.
+Tap.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+An old man emerged.
+White hair.
+Long coat.
+Silver eyes hidden behind dark glasses.
+Mina instantly recognized him.
+The shop owner.
+The man who had sold her the watch.
+Anger exploded inside her.
+"You!"
+The old man stopped.
+"I wondered how long it would take."
+Mina marched toward him.
+"My mother is dying!"
+"I know."
+"The city is falling apart!"
+"I know."
+"That monster is trying to kill me!"
+The old man nodded.
+"I know."
+Mina clenched her fists.
+For a moment she wanted to scream.
+Instead she asked the only question that mattered.
+"Why?"
+The old man removed his glasses.
+His silver eyes glowed softly.
+Because of them, he suddenly looked much older than before.
+Not eighty years old.
+Not even one hundred.
+Something else.
+Something ancient.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+"Because," he said quietly, "the watch was never meant for a human."
+The room became silent.
+Mina stared.
+Ren looked away.
+And for the first time since entering the shop, the old man seemed genuinely troubled.
+"The watch chooses a Keeper every century," he continued.
+"A Keeper?"
+"Someone who protects the future."
+Mina laughed bitterly.
+"You chose the wrong person."
+"No."
+The old man's eyes met hers.
+"Unfortunately, it chose exactly the right one."
+Mina felt her stomach tighten.
+The old man reached into his coat and removed a faded photograph.
+He handed it to her.
+"What is this?"
+"Look."
+
+          
+      </p>
+      <div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+      <p>
+          Mina stared at the picture.
+Her breath stopped.
+It showed a young woman standing beside a cherry blossom tree.
+The woman looked exactly like her.
+Not similar.
+Exactly.
+Same face.
+Same eyes.
+Same smile.
+Except the photograph was dated:
+April 18, 1926.
+One hundred years ago.
+Mina looked up slowly.
+Her hands trembled.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+"Who is she?"
+The old man's expression darkened.
+"The first girl who borrowed tomorrow."
+And somewhere beyond the walls of the bookstore—
+The Collector continued searching.
+Waiting.
+Patiently.
+For Mina's time to run out.
+      </p>
+    `
+  },
+
+        
   
 ];
 
