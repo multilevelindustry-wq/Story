@@ -1,4 +1,4 @@
-const firebaseConfig = {
+  const firebaseConfig = {
   apiKey: "AIzaSyAC3qCkDfdS2X8YA6deg01lXif7qAStfQQ",
   authDomain: "neostore-81b57.firebaseapp.com",
   databaseURL: "https://neostore-81b57-default-rtdb.firebaseio.com",
@@ -42,7 +42,45 @@ function displayPosts(list) {
   👁 Loading views...
 </div>
           <p>${post.excerpt}</p>
-          <a href="post.html?slug=${post.slug}" class="read-btn">Read Story</a>
+          
+          <div class="post-actions">
+  <a href="post.html?slug=${post.slug}" class="read-btn">
+    Read More
+  </a>
+  
+  <button
+  class="share copy-link"
+  onclick="copyLink()">
+  Copy Link
+</button>
+
+  <div class="share-buttons">
+
+  <a
+    href="https://wa.me/?text=${encodeURIComponent(post.title + ' ' + window.location.origin + '/post.html?slug=' + post.slug)}"
+    target="_blank"
+    class="share whatsapp">
+    WhatsApp
+  </a>
+
+  <a
+    href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.origin + '/post.html?slug=' + post.slug)}"
+    target="_blank"
+    class="share facebook">
+    Facebook
+  </a>
+  
+  
+  <a
+    href="https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(window.location.origin + '/post.html?slug=' + post.slug)}"
+    target="_blank"
+    class="share x">
+    X
+  </a>
+
+</div>
+</div>
+       
         </div>
       </div>
     `;
@@ -135,12 +173,63 @@ if (postContent) {
   incrementViews(post.slug);
   
     document.title = post.title;
+    
+    
+    
+    const shareUrl =
+  window.location.href;
 
-    postContent.innerHTML = `
-      <img src="${post.image}" loading="lazy">
-      <h1>${post.title}</h1>
-      ${post.content}
-    `;
+postContent.innerHTML = `
+  <img src="${post.image}" loading="lazy">
+
+  <h1>${post.title}</h1>
+
+  <div class="story-share">
+
+    <h3>Share This Story</h3>
+
+    <a
+      href="https://wa.me/?text=${encodeURIComponent(post.title + ' ' + shareUrl)}"
+      target="_blank"
+      class="share whatsapp">
+      WhatsApp
+    </a>
+
+    <a
+      href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}"
+      target="_blank"
+      class="share facebook">
+      Facebook
+    </a>
+
+    <a
+      href="https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&url=${encodeURIComponent(shareUrl)}"
+      target="_blank"
+      class="share x">
+      X
+    </a>
+
+    <a
+      href="https://t.me/share/url?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(post.title)}"
+      target="_blank"
+      class="share telegram">
+      Telegram
+    </a>
+    
+    <button
+  class="share copy-link"
+  onclick="copyLink()">
+  Copy Link
+</button>
+
+  </div>
+  
+    
+
+  ${post.content}
+`;
+
+    
 
     loadRelated(post.slug);
     
@@ -350,6 +439,34 @@ async function addComment() {
   }
 }
 
+function sharePost(slug, title) {
 
+  const url =
+    `${window.location.origin}/post.html?slug=${slug}`;
 
-                
+  if (navigator.share) {
+
+    navigator.share({
+      title: title,
+      text: "Check out this story:",
+      url: url
+    });
+
+  } else {
+
+    navigator.clipboard.writeText(url);
+
+    alert("Story link copied to clipboard!");
+  }
+}
+
+function copyLink() {
+
+  navigator.clipboard.writeText(
+    window.location.href
+  );
+
+  alert("Link copied!");
+}
+
+    
