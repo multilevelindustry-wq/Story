@@ -10,11 +10,11 @@ const posts = [
 In the heart of Seoul, neon signs flickered against wet streets while exhausted office workers dragged themselves home beneath transparent umbrellas. 
 </p>
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       
@@ -32,11 +32,11 @@ Something enormous awakened.</p>
     content: `
       <p>Kidney health is important for removing waste and balancing fluids.</p>
      <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -50,11 +50,11 @@ Something enormous awakened.</p>
     content: `
       <p>Diabetes is a chromebook .</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Common symptoms include excessive thirst and fatigue.</p>
@@ -69,11 +69,11 @@ Something enormous awakened.</p>
     content: `
       <p>Mental health affects overall wellbeing.</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Practice mindfulness and get adequate sleep.</p>
@@ -88,11 +88,11 @@ Something enormous awakened.</p>
     content: `
       <p>Exercise, hydration and balanced nutrition help immunity.</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2915/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Sleep is equally important for immune function.</p>
@@ -107,11 +107,11 @@ Something enormous awakened.</p>
     content: `
       <p>Crash dieting may damage metabolism.</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Consistency and nutrition matter most.</p>
@@ -126,11 +126,11 @@ Something enormous awakened.</p>
     content: `
       <p>Prenatal care is essential during pregnancy.</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Attend regular medical checkups.</p>
@@ -145,11 +145,11 @@ Something enormous awakened.</p>
     content: `
       <p>A healthy sleep routine improves energy and focus.</p>
    <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Avoid screens before bedtime.</p>
@@ -168,7 +168,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Exercise at least 30 minutes daily.</p>
@@ -187,7 +187,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Seek professional medical advice if symptoms persist.</p>
@@ -206,7 +206,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -226,7 +226,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -246,7 +246,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -266,7 +266,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -286,7 +286,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -306,7 +306,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -326,7 +326,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -346,7 +346,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -366,7 +366,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -386,7 +386,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
@@ -405,7 +405,7 @@ Something enormous awakened.</p>
 
     <div>
       <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
   <p> Waiting. Patiently. For Mina's time to run out. </p>
