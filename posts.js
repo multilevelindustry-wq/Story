@@ -1,13 +1,282 @@
 const posts = [
     {
-    slug: "The-girl-who-borrowed-tomorrow-fantasy, mystery, drama",
-    title: "The Girl Who Borrowed Tomorrow-Chapter 1, Story by goddess of prime",
-    image: "https://www.image2url.com/r2/default/images/1779993814699-6365e400-cf36-41db-83fc-71c2bf5f6c58.webp",
-    excerpt: "Chapter 1 — The Day Mina Stole an Extra Hour",
+    slug: "blood-pressure-chapter-1-fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "My Blood Pressure Secret Nearly Ended My Career , By Dr. Thomas ",
+    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+    excerpt: "Chapter 1: The Headaches I Refused to Explain",
     content: `
       <p> 
-      Rain fell over the city like static on an old television screen.
-In the heart of Seoul, neon signs flickered against wet streets while exhausted office workers dragged themselves home beneath transparent umbrellas. 
+      
+
+The first headache arrived on a Monday morning.
+
+I remember it clearly because I blamed everything except the real cause.
+
+Too much coffee.
+
+Too little sleep.
+
+Stress from work.
+
+The traffic.
+
+The weather.
+
+Anything but my health.
+
+At thirty-eight, I was considered one of the most successful television journalists in the country. My face appeared on millions of screens every evening. People admired my confidence, energy, and sharp reporting.
+
+What they didn't know was that I had begun hiding small changes in my body.
+
+The headaches came first.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+Not the ordinary kind that disappeared after a glass of water. These felt different. A dull pressure sat behind my eyes as if someone were slowly tightening a belt around my head.
+
+Some mornings I woke up already exhausted.
+
+Other days I felt my heart pounding even while sitting still.
+
+I ignored all of it.
+
+After all, successful people don't have time to be sick.
+
+At least that's what I told myself.
+
+One afternoon during a live broadcast, something strange happened.
+
+The studio lights seemed brighter than usual.
+
+My vision blurred for a few seconds.
+
+I blinked several times, hoping nobody noticed.
+
+The camera was still rolling.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+Thousands of viewers were watching.
+
+I continued speaking, pretending everything was normal.
+
+Inside, however, panic was growing.
+
+When the segment ended, my colleague Sarah approached me.
+
+"You don't look well," she said.
+
+"I'm fine."
+
+"You've said that every day this week."
+
+I forced a smile.
+
+"I'm just tired."
+
+But the truth was that I wasn't just tired.
+
+I had started experiencing several warning signs:
+
+- Frequent headaches
+- Dizziness
+- Fatigue
+- Occasional blurred vision
+- A pounding heartbeat
+- Difficulty concentrating
+
+Unfortunately, I didn't recognize them as potential symptoms of high blood pressure.
+
+Many people don't.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+That's why hypertension is often called the "silent killer."
+
+For years, blood pressure can remain dangerously high without causing obvious symptoms. During that time, it quietly damages blood vessels, the heart, kidneys, brain, and eyes.
+
+I knew this as a journalist.
+
+Yet somehow I never imagined it could happen to me.
+
+That evening I returned home and collapsed onto the couch.
+
+My wife, Linda, immediately noticed something was wrong.
+
+"You look pale."
+
+"I'm okay."
+
+She crossed her arms.
+
+"That's becoming your favorite sentence."
+
+I laughed weakly.
+
+She wasn't amused.
+
+"When was the last time you had a medical checkup?"
+
+I tried to remember.
+
+A year?
+
+Maybe two?
+
+Possibly longer.
+
+The silence answered her question.
+
+"David, you need to see a doctor."
+
+I promised I would.
+
+But I had no intention of going.
+
+Work came first.
+
+It always had.
+
+The next few weeks became a blur of deadlines, interviews, and increasingly severe headaches.
+
+I began carrying painkillers everywhere.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+Instead of finding the cause, I simply treated the discomfort.
+
+The temporary relief convinced me I was handling the problem.
+
+In reality, the problem was handling me.
+
+One Friday afternoon, I climbed a short flight of stairs to the newsroom.
+
+Halfway up, I stopped.
+
+My chest felt tight.
+
+My breathing became unusually heavy.
+
+I rested for a moment before continuing.
+
+That should have frightened me.
+
+It didn't.
+
+I was too busy thinking about my next story.
+
+What I didn't know was that uncontrolled high blood pressure can force the heart to work much harder than normal. Over time, this increases the risk of serious complications, including:
+
+- Heart attack
+- Stroke
+- Heart failure
+- Kidney diseases 
+- visions problems
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+These conditions don't appear overnight.
+
+They develop silently, often over many years.
+
+And I was unknowingly moving closer to them.
+
+Three days later, I received the warning that changed everything.
+
+It happened during a major interview with a government official.
+
+The room suddenly felt hot.
+
+My heartbeat accelerated.
+
+The headache exploded with a sharp intensity unlike anything I had experienced before.
+
+For a moment, I struggled to focus on the questions in front of me.
+
+The words on my notes seemed to swim across the page.
+
+Then the room began spinning.
+
+I grabbed the edge of the table.
+
+Nobody noticed.
+
+At least I thought nobody noticed.
+
+But Sarah did.
+
+She always noticed.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+The moment the interview ended, she pulled me aside.
+
+"You're going to the hospital."
+
+"No."
+
+"That wasn't a request."
+
+"I'm fine."
+
+"David, you almost collapsed."
+
+I opened my mouth to argue.
+
+Instead, another wave of dizziness hit me.
+
+For the first time, I couldn't deny the truth.
+
+Something was seriously wrong.
+
+As Sarah helped me toward the parking lot, a terrifying thought entered my mind.
+
+What if this wasn't just stress?
+
+What if my body had been trying to warn me for months?
+
 </p>
 <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
@@ -19,18 +288,445 @@ In the heart of Seoul, neon signs flickered against wet streets while exhausted 
   </div>
       
       <p>
-Something enormous awakened.</p>
+      And what if I had waited too long to listen?
+
+I had no idea that within hours, a doctor would reveal a secret hidden inside my own body—a secret powerful enough to end my career, threaten my future, and completely change the way I viewed my health.
+
+The answer was waiting behind a blood pressure monitor.
+
+And I wasn't prepared for what the numbers would show.
+
+End of Chapter 1
+</p>
     `
   },
 
 
   {
-    slug: "best-food-for-healthy-kidney",
-    title: "My Husband Shadow Lives Upstairs",
-    image: "https://www.image2url.com/r2/default/images/1779994049723-99e7773c-e35b-49ad-b58d-c3f1fe0be38c.png",
-    excerpt: "Chapter One ",
+    slug: "blood-pressure-chapter-2-fantasy, mystery, drama, health, bp, blood, symptoms, story, supplements, solutions",
+    title: "My Blood Pressure Secret Nearly Ended My Career chapter 2, By Dr. Thomas ",
+    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+    excerpt: "Chapter 2: The Numbers That Terrified Me
+        ",
     content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
+      <p>
+      
+The emergency department was unusually quiet when Sarah drove me there.
+
+I sat in the waiting room feeling embarrassed.
+
+Part of me still believed I was wasting everyone's time.
+
+"It'll probably be stress," I said.
+
+Sarah looked at me.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+"You nearly passed out."
+
+"I didn't pass out."
+
+"You almost did."
+
+Before I could argue, a nurse called my name.
+
+A few minutes later, I was seated in a small examination room.
+
+The nurse wrapped a blood pressure cuff around my arm.
+
+I barely paid attention.
+
+I had seen the procedure hundreds of times on medical programs and health reports.
+
+It seemed routine.
+
+Nothing to worry about.
+
+The cuff tightened.
+
+Then tightened even more.
+
+The machine beeped.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+The nurse stared at the screen.
+
+Her expression changed.
+
+Not dramatically.
+
+Just enough for me to notice.
+
+She checked the reading again.
+
+Then a third time.
+
+Now I was paying attention.
+
+"Is everything okay?" I asked.
+
+She forced a professional smile.
+
+"The doctor will discuss the results with you."
+
+That wasn't the answer I wanted.
+
+Twenty minutes later, the doctor entered the room holding a chart.
+
+He introduced himself and sat down.
+
+"Mr. Parker, your blood pressure is very high."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+"How high?"
+
+He looked directly at me.
+
+"One hundred and eighty-four over one hundred and sixteen."
+
+For a moment, I didn't understand what those numbers meant.
+
+Then I remembered every health story I had ever reported.
+
+Normal blood pressure is generally around 120/80 mmHg.
+
+The top number, called systolic pressure, measures the force of blood against artery walls when the heart beats.
+
+The bottom number, called diastolic pressure, measures the pressure when the heart rests between beats.
+
+My numbers weren't slightly elevated.
+
+They were dangerously high.
+
+The doctor continued.
+
+"At these levels, you're at increased risk of a stroke, heart attack, kidney damage, and other serious complications."
+
+The room suddenly felt smaller.
+
+I stared at him.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+"Are you saying I could have a stroke?"
+
+"I'm saying your blood pressure needs immediate attention."
+
+The confidence I carried into every newsroom vanished.
+
+For the first time in years, I felt genuinely afraid.
+
+The doctor ordered additional tests.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+Blood work.
+
+An electrocardiogram.
+
+A physical examination.
+
+Hours passed.
+
+While waiting for the results, I finally asked the question that had been bothering me.
+
+"How did this happen?"
+
+The doctor nodded.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+"It's a common question."
+
+He explained that high blood pressure develops for many different reasons.
+
+Some risk factors cannot be changed:
+
+- Family history
+- Age
+- Genetics
+
+Others are strongly influenced by lifestyle:
+
+- Excess salt consumption
+- Lack of exercise
+- Smoking
+- Excessive alcohol intake
+- Obesity
+- Chronic stress
+- Poor sleep
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+As he listed them, I mentally checked the boxes.
+
+Stress?
+
+Definitely.
+
+Poor sleep?
+
+Every day.
+
+Exercise?
+
+Almost none.
+
+Healthy eating?
+
+Only when convenient.
+
+My career had become my excuse for ignoring every warning sign.
+
+The doctor reviewed my blood tests later that evening.
+
+Fortunately, there was no evidence of a heart attack.
+
+The relief was overwhelming.
+
+But the good news came with another warning.
+
+"You were lucky."
+
+Lucky.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
+The word stayed with me.
+
+Because luck eventually runs out.
+
+The doctor explained that many people live with uncontrolled hypertension for years.
+
+Since symptoms are often mild or absent, they never seek treatment.
+
+Some discover the condition only after suffering a major medical emergency.
+
+A stroke.
+
+Heart failure.
+
+Kidney disease.
+
+Permanent vision loss.
+
+I thought about all the mornings I had ignored the headaches.
+
+All the times I dismissed the dizziness.
+
+All the excuses I made.
+
+Suddenly those decisions felt incredibly dangerous.
+
+The doctor wasn't finished.
+
+"We need to start treatment immediately."
+
+The word treatment sounded serious.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+More serious than diagnosis.
+
+Diagnosis tells you there's a problem.
+
+Treatment confirms the problem is real.
+
+He prescribed medication to help lower my blood pressure.
+
+Then he outlined several lifestyle changes:
+
+Reduce sodium intake.
+
+Exercise regularly.
+
+Lose excess weight.
+
+Manage stress.
+
+Improve sleep quality.
+
+Avoid smoking.
+
+Limit alcohol.
+
+Monitor blood pressure frequently.
+
+The list felt overwhelming.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+I had spent years building my career.
+
+Now it seemed I needed to rebuild my life.
+
+As I prepared to leave the hospital, the doctor handed me a small booklet.
+
+On the cover were three words.
+
+Know Your Numbers.
+
+Simple words.
+
+Powerful words.
+
+If I had known my numbers earlier, I might have prevented months of suffering.
+
+Maybe even years of damage.
+
+Linda arrived shortly after midnight.
+
+When she entered the room, she immediately knew something was wrong.
+
+"What did they find?"
+
+I swallowed hard.
+
+"High blood pressure."
+
+"How high?"
+
+I told her.
+
+Her eyes widened.
+
+Neither of us spoke for several seconds.
+
+The silence said everything.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+For months my body had been sending warning messages.
+
+Headaches.
+
+Fatigue.
+
+Dizziness.
+
+Blurred vision.
+
+I ignored them all.
+
+Now those symptoms finally had a name.
+
+Hypertension.
+
+And according to my doctor, controlling it would require more than medication.
+
+It would require changing the habits that had defined my entire career.
+
+As Linda drove us home through the empty streets, I stared out the window.
+
+The city lights blurred in the distance.
+
+For years I believed success meant pushing harder than everyone else.
+
+Sleeping less.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
+Working more.
+
+Ignoring discomfort.
+
+Never slowing down.
+
+That philosophy had built my career.
+
+But it had nearly destroyed my health.
+
+What I didn't know was that the hardest part wasn't receiving the diagnosis.
+
+
+</p>
      <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
 
@@ -39,7 +735,15 @@ Something enormous awakened.</p>
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      The hardest part would begin the next morning.
+
+Because lowering my blood pressure would mean confronting the one thing I had spent my entire life avoiding:
+
+Change.
+
+End of Chapter 2
+</p>
     `
   },
        {
