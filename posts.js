@@ -746,14 +746,13 @@ End of Chapter 2
     `
   },
        {
-    slug: "Understanding-Diabetes-Symptoms",
-    title: "I Sold My Heart For Seven Days ",
-    image: "https://www.image2url.com/r2/default/images/1779996038799-170774bd-9b92-4ecf-8e4a-cb8ae0d73489.jpg",
-    excerpt: "Chapter One ",
+    slug: "blood-pressure-chapter-3-fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "My Blood Pressure Secret Nearly Ended My Career chapter 3, By Dr. Thomas ",
+    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+    excerpt: "Chapter 3: The Pill on My Nightstand",
     content: `
       <p>
-      Chapter 3: The Pill on My Nightstand
-
+      
 The next morning, I woke up expecting everything to feel different.
 
 It didn't.
@@ -765,6 +764,15 @@ The same ceiling.
 The same alarm clock.
 
 The same responsibilities waiting for me.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 For a brief moment, I wondered if the previous day had been a dream.
 
@@ -783,6 +791,15 @@ Yet somehow it felt heavier than anything I had ever held.
 Taking that first pill meant admitting something I had spent years denying.
 
 I wasn't invincible.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 For most of my adult life, I believed health problems happened to other people.
 
@@ -824,6 +841,15 @@ She laughed.
 
 "Good."
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 "I didn't say it was enjoyable."
 
 But the truth was that I had spent hours researching hypertension.
@@ -857,6 +883,15 @@ I stood up from my desk and immediately felt dizzy.
 
 The room tilted slightly.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 I grabbed a nearby chair.
 
 The sensation passed within seconds.
@@ -888,6 +923,15 @@ Every unusual sensation made me wonder if something terrible was happening.
 For the first time, I understood why many patients feel anxious after receiving a diagnosis.
 
 Knowledge can be empowering.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 But it can also be frightening.
 
@@ -923,6 +967,15 @@ Many processed foods contain surprisingly large amounts of salt.
 
 Excess sodium causes the body to retain water, increasing pressure within blood vessels.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Unfortunately, many of my favorite foods were loaded with it.
 
 Pizza.
@@ -956,6 +1009,15 @@ Perhaps Linda knew what she was doing after all.
 The next challenge was exercise.
 
 My doctor recommended regular physical activity.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 Not extreme workouts.
 
@@ -993,6 +1055,15 @@ Less stress.
 
 Small victories.
 
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Yet one question continued bothering me.
 
 How much damage had already been done?
@@ -1025,6 +1096,15 @@ For the first time since my diagnosis, I felt hopeful.
 
 The numbers weren't perfect.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Not even close.
 
 But they were moving in the right direction.
@@ -1047,7 +1127,17 @@ It was about consistency.
 
 As I left the clinic, I felt lighter than I had in weeks.
 
-For the first time, I believed I might actually beat this condition instead of merely surviving it.
+
+</p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+      <p>For the first time, I believed I might actually beat this condition instead of merely surviving it.
 
 What I didn't know was that a far bigger challenge was approaching.
 
@@ -1059,28 +1149,18 @@ Because within days, my employer would discover the truth about my diagnosis.
 
 And their reaction would threaten everything I had worked for.
 
-End of Chapter 3
-</p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
-    </div>
-  </div>
-      <p>Common symptoms include excessive thirst and fatigue.</p>
+End of Chapter 3</p>
     `
   },
 
   {
-    slug: "Mental-Health-and-Stress",
-    title: "The Night Heaven Lost An Angel ",
-    image: "https://www.image2url.com/r2/default/images/1779995881191-a888a4df-203d-4c29-aa3d-42666ead6615.jpg",
-    excerpt: "Chapter One ",
+    slug: "blood-pressure-chapter-4-fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "My Blood Pressure Secret Nearly Ended My Career chapter 4 , By Dr. Thomas ",
+    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+    excerpt: "Chapter 4: The Meeting I Never Wanted",
     content: `
       <p>
-      Chapter 4: The Meeting I Never Wanted
+      
 
 The email arrived on a Tuesday morning.
 
@@ -1103,6 +1183,15 @@ My wife.
 Sarah.
 
 My doctor.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 A few close family members.
 
@@ -1140,6 +1229,15 @@ Reduce my responsibilities?
 
 Take me off the air?
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+  
 Television is a competitive industry.
 
 Viewers expect confidence and energy.
@@ -1182,6 +1280,15 @@ At the time, I considered those habits signs of dedication.
 
 My doctor had a different opinion.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 During one appointment, he explained that chronic stress can contribute to high blood pressure.
 
 When the body remains under constant stress, it releases hormones such as adrenaline and cortisol.
@@ -1217,6 +1324,15 @@ The station manager noticed my expression.
 "This isn't a punishment, David."
 
 I remained silent.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 "We want to reduce your workload temporarily."
 
@@ -1260,6 +1376,15 @@ Then she laughed.
 
 I leaned back in my chair.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Maybe she was right.
 
 The truth was complicated.
@@ -1296,6 +1421,15 @@ I was no exception.
 
 That evening, Linda noticed my mood immediately.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 "What happened?"
 
 I explained the meeting.
@@ -1325,6 +1459,15 @@ Instead, I remained quiet.
 Because deep down, I knew she was right.
 
 The next morning, I decided to check my blood pressure before work.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 The numbers appeared on the monitor.
 
@@ -1356,6 +1499,15 @@ Not perfection.
 
 For the next several weeks, I focused on my recovery.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Regular walks.
 
 Healthier meals.
@@ -1380,7 +1532,17 @@ Then something happened that shattered my confidence.
 
 It began during a routine medical appointment.
 
-A test.
+
+</p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+      <p>A test.
 
 A simple test.
 
@@ -1392,28 +1554,18 @@ Something I never saw coming.
 
 And according to my doctor, it could change my future forever.
 
-End of Chapter 4
-</p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
-    </div>
-  </div>
-      <p>Practice mindfulness and get adequate sleep.</p>
+End of Chapter 4</p>
     `
   },
 
   {
-    slug: "How-to-Improve-Your-Immune",
-    title: "My Mother Married My Enemy ",
-    image: "https://www.image2url.com/r2/default/images/1779995991426-aa786ce0-a076-4f15-a2bf-74281f1f9b4b.jpg",
-    excerpt: "Chapter One ",
+    slug: "blood-pressure-chapter-5-fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "My Blood Pressure Secret Nearly Ended My Career chapter 5, By Dr. Thomas ",
+    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+    excerpt: "Chapter 5: Damage I Couldn't Feel",
     content: `
       <p>
-      Chapter 5: Damage I Couldn't Feel
+      
 
 The appointment was supposed to be routine.
 
@@ -1424,6 +1576,15 @@ My blood pressure had been improving.
 The headaches were less frequent.
 
 The dizziness was fading.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 I was exercising regularly and taking my medication exactly as prescribed.
 
@@ -1440,6 +1601,15 @@ Doctors rarely look serious when they have good news.
 "David," he said, taking a seat across from me. "Your blood pressure is improving."
 
 I smiled.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 Then he continued.
 
@@ -1464,6 +1634,15 @@ His voice was calm.
 "It affects organs throughout the body."
 
 I felt a knot forming in my chest.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 "The heart, kidneys, eyes, brain, and blood vessels can all be damaged over time."
 
@@ -1499,6 +1678,15 @@ The answer came quickly.
 
 I exhaled.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 "But this may be an early warning sign."
 
 The relief disappeared.
@@ -1533,6 +1721,15 @@ No dramatic symptoms.
 
 No obvious warning.
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 Just silent damage occurring day after day.
 
 The doctor must have noticed my concern.
@@ -1552,6 +1749,15 @@ But it gave me hope.
 For the rest of the appointment, we discussed protecting my kidneys and other organs.
 
 He emphasized several important strategies:
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 - Taking medication consistently
 - Limiting sodium intake
@@ -1576,6 +1782,15 @@ At work, I found myself watching people differently.
 Reporters rushing between assignments.
 
 Producers surviving on coffee.
+
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 Editors skipping meals.
 
@@ -1602,6 +1817,15 @@ I had become one of those people.
 That evening, Linda noticed I was unusually quiet.
 
 "What did the doctor say?"
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 I told her everything.
 
@@ -1634,6 +1858,15 @@ You begin wondering about every possibility.
 Every risk.
 
 Every worst-case scenario.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
 
 That night, sleep refused to come.
 
@@ -1671,6 +1904,15 @@ Instead of asking, "Why did this happen to me?"
 
 I started asking, "What can I do about it?"
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 The answer wasn't complicated.
 
 Continue treatment.
@@ -1699,6 +1941,15 @@ I paid attention to what I ate.
 
 I walked even when I didn't feel like it.
 
+<div class="affiliate-box">
+    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+    </div>
+  </div>
+
 I treated my health with the same seriousness I once reserved only for my career.
 
 Gradually, improvements appeared.
@@ -1717,15 +1968,7 @@ Then, during a routine television broadcast, something happened that nearly dest
 
 A sudden mistake.
 
-A very public mistake.
 
-One that millions of viewers would witness.
-
-And afterward, everyone would begin asking the same question:
-
-Was I still healthy enough to do my job?
-
-End of Chapter 5
 </p>
       <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2915/landingpage_s.jpg" alt="Organic Green Tea">
@@ -1735,7 +1978,15 @@ End of Chapter 5
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Sleep is equally important for immune function.</p>
+      <p>A very public mistake.
+
+One that millions of viewers would witness.
+
+And afterward, everyone would begin asking the same question:
+
+Was I still healthy enough to do my job?
+
+End of Chapter 5</p>
     `
   },
 
