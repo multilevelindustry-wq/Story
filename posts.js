@@ -1114,8 +1114,7 @@ End of Chapter 2
   </div>
   <p> Waiting. Patiently. For Mina's time to run out. </p>
     `
-  },
-
+    }
         
   
 ];
