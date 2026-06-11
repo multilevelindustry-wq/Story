@@ -1991,14 +1991,13 @@ End of Chapter 5</p>
   },
 
   {
-    slug: "The-Truth-About-Weight-Loss",
-    title: "The Forgotten Son Of Atlantis",
+    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter One ",
+    excerpt: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
     content: `
       <p>
      
-Chapter 1: The Machine At The Pharmacy Told A Different Story
 The bell above the pharmacy door chimed softly as Michael stepped inside.
 He wasn't sick. At least, that's what he kept telling himself.
 At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
@@ -2145,14 +2144,14 @@ End of Chapter 1 </p>
   },
 
   {
-    slug: "Healthy-Pregnancy-Guide",
-    title: "The CEO Who Hides Dead Bodies ",
-    image: "https://www.image2url.com/r2/default/images/1779997487730-72588a61-161b-4831-9924-247fd90e5659.jpg",
-    excerpt: "Chapter One ",
+    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+    excerpt: "Chapter 2: The Man In The Waiting Room",
     content: `
       <p>
      
-Chapter 2: The Man In The Waiting Room
+
 Michael arrived at the clinic early the next morning.
 The doctor had scheduled additional tests to determine whether years of uncontrolled high blood pressure had already affected his heart, kidneys, or blood vessels.
 As he sat in the waiting room, he couldn't stop thinking about the numbers from the pharmacy machine.
@@ -2285,14 +2284,13 @@ End of Chapter 2 </p>
   },
 
   {
-    slug: "Natural-Ways-to-Sleep-Better",
-    title: "The Secret Baby Of Blackwood Castle",
-    image: "https://www.image2url.com/r2/default/images/1779997597110-373af6ea-1730-4b9b-a363-cce4ae2cd770.jpg",
-    excerpt: "Chapter One ",
+    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+    excerpt: "Chapter 3: The Symptoms Everyone Ignored",
     content: `
       <p>
      
-Chapter 3: The Symptoms Everyone Ignored
 Three days passed.
 Michael had begun adjusting to his new routine.
 Every morning started with a blood pressure check, followed by a short walk around the neighborhood before breakfast. He was taking his medication exactly as prescribed and paying closer attention to what he ate.
@@ -2470,14 +2468,14 @@ End of Chapter 3 </p>
   },
 
   {
-    slug: "Best-Exercises-for-Heart-Health",
-    title: "The Boy Who Could Hear Graves",
-    image: "https://www.image2url.com/r2/default/images/1779996744243-c74dcb36-a8c0-45ac-85cc-a4a228171dcb.jpg",
-    excerpt: "Chapter One ",
+    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
+    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+    excerpt: "Chapter 4: The Second Secret",
     content: `
       <p>
-      :::writing{variant="document" id="58145"}
-Chapter 4: The Second Secret
+      
+
 For the first time in years, Michael felt optimistic.
 His blood pressure readings were gradually improving.
 The pounding headaches that had once interrupted his mornings were becoming less frequent. He was walking every day, taking his medication, and making healthier food choices.
