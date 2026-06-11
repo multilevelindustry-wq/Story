@@ -1993,10 +1993,139 @@ End of Chapter 5</p>
   {
     slug: "The-Truth-About-Weight-Loss",
     title: "The Forgotten Son Of Atlantis",
-    image: "https://www.image2url.com/r2/default/images/1779995946533-14a34188-8bf4-41e0-9ae9-01153c380860.jpg",
+    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter One ",
     content: `
-      <p>Crash dieting may damage metabolism.</p>
+      <p>
+     
+Chapter 1: The Machine At The Pharmacy Told A Different Story
+The bell above the pharmacy door chimed softly as Michael stepped inside.
+He wasn't sick. At least, that's what he kept telling himself.
+At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
+"Just stress," he would say whenever his wife, Angela, asked about his headaches.
+But lately, the headaches had become more frequent.
+There were other signs too.
+He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
+That Saturday morning, he entered the pharmacy only to buy vitamins.
+While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
+FREE BLOOD PRESSURE CHECK
+A young pharmacist smiled.
+"Have you ever checked your blood pressure recently?"
+Michael shrugged.
+"Not really. I feel fine."
+The pharmacist laughed gently.
+"Many people with high blood pressure feel fine."
+The words barely registered.
+Mostly because Michael was already sitting down in front of the machine.
+He slipped his arm into the cuff and pressed the button.
+The machine hummed quietly.
+The cuff tightened.
+Then tightened even more.
+A few seconds later, numbers appeared on the screen.
+182/112
+Michael stared.
+The pharmacist's smile disappeared.
+"Sir, can I see that?"
+Michael pointed at the screen.
+The pharmacist looked concerned.
+"Have you been diagnosed with high blood pressure before?"
+"No."
+"Any headaches?"
+Michael nodded.
+"Dizziness?"
+"Sometimes."
+"Blurred vision?"
+"Occasionally."
+The pharmacist took a slow breath.
+"I'd like you to sit for five minutes and test again."
+Michael suddenly felt nervous.
+For the first time all morning, he became aware of his pounding heartbeat.
+Five minutes later, they repeated the test.
+179/110
+Still dangerously high.
+The machine had told a different story than the one Michael had been telling himself for years.
+The pharmacist spoke carefully.
+"Your readings are very high. You need to see a doctor today."
+Michael tried to laugh it off.
+"It's probably because I rushed here."
+The pharmacist shook his head.
+"Maybe. But numbers this high can increase the risk of serious problems like stroke, heart attack, kidney disease, and vision loss."
+The words landed heavily.
+Stroke.
+Heart attack.
+Michael suddenly remembered his father.
+His father had suffered a stroke at fifty-two.
+The family had called it bad luck.
+Now Michael wondered whether it had been something more.
+An hour later, Angela was driving him to a medical clinic.
+The doctor listened carefully as Michael described his symptoms.
+Headaches.
+Fatigue.
+Occasional dizziness.
+A feeling of pressure behind his eyes.
+The doctor ordered several tests and repeated the blood pressure measurement.
+The result was nearly identical.
+The diagnosis was clear.
+Hypertension—commonly called high blood pressure.
+Michael expected to feel pain.
+He expected some dramatic warning sign.
+Instead, the doctor explained why hypertension is often called the "silent killer."
+Many people have it for years without realizing it.
+During that time, the constant pressure damages blood vessels and organs.
+The heart works harder.
+The kidneys become strained.
+The brain faces greater risk of stroke.
+The eyes can suffer damage.
+All while the person feels perfectly normal.
+"That's why regular screening matters," the doctor said.
+"Sometimes a simple machine can save a life."
+Michael thought about the pharmacy.
+About the machine he almost ignored.
+About how close he came to walking away without checking.
+The doctor explained several common symptoms that can occur when blood pressure becomes very high:
+Frequent headaches
+Dizziness
+Shortness of breath
+Chest discomfort
+Fatigue
+Blurred vision
+Nosebleeds in some cases
+However, many people experience no symptoms at all.
+That is why regular blood pressure checks are so important, especially for adults over forty or anyone with risk factors.
+The doctor reviewed Michael's lifestyle.
+Too much salt.
+Too little exercise.
+Long-term stress.
+Poor sleep.
+Family history of hypertension.
+Several risk factors were working together.
+Fortunately, treatment options existed.
+The plan included:
+Blood pressure medication
+Reduced salt intake
+More fruits and vegetables
+Regular exercise
+Weight management
+Better sleep habits
+Stress reduction
+Regular blood pressure monitoring
+"If you take this seriously," the doctor said, "you can greatly reduce your risk of complications."
+Michael nodded.
+For the first time in years, he realized health wasn't something you could assume.
+It was something you had to monitor.
+Protect.
+Maintain.
+That evening, Michael sat quietly on his porch.
+The sunset painted the sky orange and gold.
+Angela joined him.
+"You seem thoughtful."
+"I keep thinking about that machine."
+"The one at the pharmacy?"
+He nodded.
+"I went in for vitamins."
+Angela smiled.
+"And came out with a warning."
+</p>
       <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
 
@@ -2005,7 +2134,13 @@ End of Chapter 5</p>
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Consistency and nutrition matter most.</p>
+      <p>Michael looked toward the horizon.
+Maybe the machine hadn't given him bad news.
+Maybe it had given him a second chance.
+He just didn't know yet how much his life was about to change.
+And neither did the strange man sitting across from him in the clinic waiting room the next day—a man whose story would reveal a far more dangerous consequence of ignoring hypertension.
+That story would begin tomorrow.
+End of Chapter 1 </p>
     `
   },
 
@@ -2015,7 +2150,123 @@ End of Chapter 5</p>
     image: "https://www.image2url.com/r2/default/images/1779997487730-72588a61-161b-4831-9924-247fd90e5659.jpg",
     excerpt: "Chapter One ",
     content: `
-      <p>Prenatal care is essential during pregnancy.</p>
+      <p>
+     
+Chapter 2: The Man In The Waiting Room
+Michael arrived at the clinic early the next morning.
+The doctor had scheduled additional tests to determine whether years of uncontrolled high blood pressure had already affected his heart, kidneys, or blood vessels.
+As he sat in the waiting room, he couldn't stop thinking about the numbers from the pharmacy machine.
+182/112.
+Those numbers seemed burned into his memory.
+He looked around the room. Most people were staring at their phones or flipping through magazines. Across from him sat an older man in his late sixties. The man walked slowly with the help of a cane.
+Their eyes met briefly.
+"First time dealing with blood pressure problems?" the man asked.
+Michael smiled weakly.
+"Is it that obvious?"
+The man chuckled.
+"You have the same look I had ten years ago."
+Michael shifted in his chair.
+"How bad was yours?"
+The man's smile faded.
+"I ignored it for years."
+Before Michael could ask more, a nurse called another patient. The room grew quiet again.
+A few minutes later, the man spoke.
+"My name is Robert."
+"Michael."
+Robert nodded.
+"You know what the worst thing about high blood pressure is?"
+Michael shook his head.
+"It doesn't always hurt."
+Michael immediately remembered what the doctor had called it.
+The silent killer.
+Robert tapped his cane gently against the floor.
+"When something hurts, people pay attention. But when you feel fine, you think everything is okay."
+"What happened to you?" Michael asked.
+Robert looked down at his left hand.
+The fingers moved slower than normal.
+"Stroke."
+The word hit Michael like a punch.
+Robert continued.
+"I was fifty-eight. Working sixty hours a week. Drinking too much coffee. Eating whatever was convenient. My doctor kept telling me my blood pressure was too high."
+"And you ignored it?"
+Robert laughed bitterly.
+"I was stubborn."
+Michael felt uncomfortable.
+The story sounded familiar.
+Too familiar.
+Robert explained that a stroke occurs when blood flow to part of the brain is interrupted.
+Without oxygen, brain cells begin to die within minutes.
+There are two major types:
+Ischemic Stroke
+Caused by a blocked blood vessel.
+Accounts for most strokes.
+Hemorrhagic Stroke
+Caused by a blood vessel that bursts.
+Often associated with severely uncontrolled blood pressure.
+High blood pressure is one of the biggest risk factors for both.
+"My blood vessels were under pressure every day," Robert said. "Eventually one of them gave out."
+Michael swallowed hard.
+"What happened?"
+"I woke up one morning and couldn't move my arm."
+Robert slowly lifted his left arm.
+Even now, years later, the movement seemed difficult.
+"My speech became slurred. My wife recognized the signs and called emergency services immediately."
+The nurse at the reception desk glanced over, listening quietly.
+Robert continued.
+"If she had waited, I might not be here."
+Just then, Michael's nurse called him for testing.
+His blood pressure was still elevated, though slightly lower than the day before.
+The doctor reviewed his results.
+Fortunately, there were no signs of kidney failure or heart damage so far.
+But there was evidence that his heart had been working harder than normal for years.
+The doctor showed him an illustration.
+"When blood pressure stays high, the heart must pump against greater resistance."
+"It's like pushing a heavy object uphill every day."
+Over time, the heart muscle can become enlarged.
+Eventually, this may contribute to:
+Heart failure
+Heart attack
+Irregular heart rhythms
+Reduced pumping efficiency
+The doctor emphasized that early treatment could prevent many of these complications.
+"The good news is we found this now."
+Michael nodded.
+For the first time since his diagnosis, he felt hopeful.
+After the appointment, he returned to the waiting room.
+Robert was still there.
+"What did the doctor say?" Robert asked.
+"Looks like I caught it before serious damage happened."
+Robert smiled.
+"Then you're lucky."
+The words carried weight.
+Not because they were dramatic.
+Because they were true.
+Many people discover hypertension only after a stroke, heart attack, or medical emergency.
+Michael was discovering it before disaster struck.
+The pharmacy machine had given him an opportunity many people never receive.
+That evening, Michael stopped at a grocery store.
+For the first time in years, he actually read food labels.
+The doctor had explained that excess sodium—commonly called salt—can contribute to high blood pressure in many people.
+He was shocked.
+Foods he considered harmless contained enormous amounts of sodium.
+Canned soups.
+Processed meats.
+Instant noodles.
+Frozen meals.
+Snack foods.
+No wonder his blood pressure had climbed so high.
+At home, Angela helped prepare a healthier dinner.
+More vegetables.
+Less salt.
+More fresh ingredients.
+Fewer processed foods.
+The changes seemed small.
+But Michael was beginning to understand that health problems often develop through thousands of small choices—and recovery often begins the same way.
+Before bed, he checked his blood pressure using a monitor the doctor recommended.
+The numbers were still higher than normal.
+But slightly lower than before.
+
+</p>
       <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
 
@@ -2024,7 +2275,12 @@ End of Chapter 5</p>
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Attend regular medical checkups.</p>
+      <p>For the first time in a long while, he felt a sense of control.
+Yet as he placed the monitor back on the table, he remembered Robert's words.
+"You have the same look I had ten years ago."
+Michael wondered how many people were walking around with dangerous blood pressure levels right now, completely unaware.
+What he didn't know was that someone much closer to him had been hiding similar symptoms—and within days, that secret would lead to a frightening emergency that would test everything he had learned.
+End of Chapter 2 </p>
     `
   },
 
@@ -2034,7 +2290,168 @@ End of Chapter 5</p>
     image: "https://www.image2url.com/r2/default/images/1779997597110-373af6ea-1730-4b9b-a363-cce4ae2cd770.jpg",
     excerpt: "Chapter One ",
     content: `
-      <p>A healthy sleep routine improves energy and focus.</p>
+      <p>
+     
+Chapter 3: The Symptoms Everyone Ignored
+Three days passed.
+Michael had begun adjusting to his new routine.
+Every morning started with a blood pressure check, followed by a short walk around the neighborhood before breakfast. He was taking his medication exactly as prescribed and paying closer attention to what he ate.
+The numbers on the monitor were slowly improving.
+Not perfect.
+But better.
+For the first time in years, he felt like he was moving in the right direction.
+Then his phone rang.
+It was his younger sister, Rebecca.
+Her voice sounded shaken.
+"Michael, can you come over?"
+"What happened?"
+"It's Mom."
+His heart sank.
+Their mother, Margaret, was sitting on the couch when Michael arrived.
+At seventy-two, she had always been active and independent.
+But today she looked unusually tired.
+"Mom, what's going on?" Michael asked.
+Margaret waved a hand dismissively.
+"Oh, it's nothing."
+Rebecca rolled her eyes.
+"That's exactly what she's been saying for months."
+Michael sat beside his mother.
+"What symptoms?"
+Margaret hesitated.
+"Just a few headaches."
+Rebecca immediately interrupted.
+"Tell him everything."
+Margaret sighed.
+"Fine."
+She admitted she had been experiencing:
+Frequent headaches
+Dizziness
+Occasional blurred vision
+Fatigue
+Shortness of breath when climbing stairs
+Michael felt a chill run through him.
+The symptoms sounded painfully familiar.
+"Have you checked your blood pressure recently?" he asked.
+Margaret looked away.
+"No."
+"When was the last time?"
+She thought for a moment.
+"Maybe two years ago."
+Rebecca groaned.
+"Exactly."
+Michael couldn't believe it.
+Just days earlier, he had been doing the same thing—ignoring warning signs and assuming everything would somehow be okay.
+Fortunately, Michael had brought his home blood pressure monitor.
+"Let's check it now."
+Margaret reluctantly agreed.
+He wrapped the cuff around her arm.
+The machine began its familiar hum.
+Everyone watched the screen.
+A few seconds later, the result appeared.
+196/118
+The room fell silent.
+Rebecca looked horrified.
+Michael immediately repeated the test after a few minutes.
+The second reading was nearly identical.
+His mother tried to laugh.
+"It can't be that bad."
+But Michael remembered exactly what the pharmacist had said.
+Numbers that high were dangerous.
+Very dangerous.
+An hour later, they were sitting in an emergency department.
+The doctor reviewed Margaret's readings and symptoms.
+Because her blood pressure was extremely elevated and she was experiencing symptoms such as headaches and blurred vision, further evaluation was necessary.
+The medical team acted quickly.
+Blood tests.
+Heart monitoring.
+Vision assessment.
+Neurological examination.
+Michael sat beside his mother while they waited.
+"You should have told us," he said gently.
+Margaret looked embarrassed.
+"I didn't want to worry anyone."
+Michael nodded.
+Many people made the same mistake.
+They feared becoming a burden.
+They convinced themselves symptoms would disappear.
+They postponed appointments.
+Weeks became months.
+Months became years.
+Meanwhile, health problems quietly progressed.
+Later that evening, the doctor returned with encouraging news.
+Margaret had not suffered a stroke.
+There was no evidence of a heart attack.
+But her blood pressure was dangerously uncontrolled.
+The doctor explained that severe hypertension can sometimes lead to a condition known as a hypertensive crisis.
+This occurs when blood pressure rises to dangerously high levels.
+Symptoms may include:
+Severe headache
+Chest pain
+Shortness of breath
+Vision problems
+Confusion
+Dizziness
+Nausea
+In some cases, it can damage vital organs and become life-threatening.
+Fortunately, Margaret had sought care before that happened.
+The doctor adjusted her treatment plan and scheduled close follow-up care.
+As they drove home, Margaret stared out the window.
+"I thought headaches were normal at my age."
+Michael shook his head.
+"A lot of people think that."
+The doctor had explained something important earlier.
+Symptoms such as headaches or fatigue do not automatically mean a person has high blood pressure.
+Many different conditions can cause them.
+However, persistent symptoms should never be ignored.
+They deserve proper medical evaluation.
+That lesson seemed obvious now.
+But it hadn't seemed obvious when Michael was ignoring his own symptoms.
+The following morning, Michael visited Robert at a local café.
+The older man listened carefully as Michael described what had happened.
+Robert nodded.
+"People usually don't ignore symptoms because they're careless."
+"Then why?"
+"Because they're busy."
+Michael considered that.
+Robert continued.
+"They have jobs, bills, family responsibilities. They tell themselves they'll deal with it next week."
+He stirred his coffee.
+"Then one day, there isn't a next week."
+The words lingered in Michael's mind.
+That afternoon, Michael attended his follow-up appointment.
+His doctor reviewed the latest blood pressure readings.
+There was steady improvement.
+The medication was helping.
+The dietary changes were helping.
+The walking routine was helping.
+"Keep going," the doctor said.
+"Small improvements add up."
+Before leaving, Michael noticed a poster on the wall.
+It listed several lifestyle habits known to help manage blood pressure:
+Taking medications as prescribed
+Limiting excess salt intake
+Exercising regularly
+Maintaining a healthy weight
+Avoiding tobacco products
+Limiting excessive alcohol consumption
+Managing stress
+Getting adequate sleep
+Simple advice.
+Yet advice capable of saving lives.
+That night, Michael sat on his porch again.
+Only this time, he wasn't alone.
+His mother sat beside him.
+"So," Margaret said with a smile, "I guess we're both patients now."
+Michael laughed.
+"Looks that way."
+For a few moments, neither spoke.
+Then Margaret asked quietly,
+"What if that pharmacy machine hadn't been there?"
+Michael looked into the darkness.
+The question bothered him because he already knew the answer.
+Without that machine, he might never have discovered his condition.
+
+</p>
    <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
 
@@ -2043,7 +2460,12 @@ End of Chapter 5</p>
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Avoid screens before bedtime.</p>
+      <p>Without that machine, he might never have convinced his mother to get checked.
+And without that machine, both of them could have continued walking toward a medical emergency without realizing it.
+But an even bigger surprise was waiting.
+The next week, Michael would learn that blood pressure wasn't the only hidden danger affecting his health.
+A routine blood test was about to reveal a second secret—one that explained why he had been exhausted for months.
+End of Chapter 3 </p>
     `
   },
 
@@ -2053,7 +2475,149 @@ End of Chapter 5</p>
     image: "https://www.image2url.com/r2/default/images/1779996744243-c74dcb36-a8c0-45ac-85cc-a4a228171dcb.jpg",
     excerpt: "Chapter One ",
     content: `
-      <p>Walking and cycling improve heart health.</p>
+      <p>
+      :::writing{variant="document" id="58145"}
+Chapter 4: The Second Secret
+For the first time in years, Michael felt optimistic.
+His blood pressure readings were gradually improving.
+The pounding headaches that had once interrupted his mornings were becoming less frequent. He was walking every day, taking his medication, and making healthier food choices.
+The changes weren't easy.
+Some mornings he wanted to skip his walk.
+Some evenings he craved the salty foods he used to eat.
+But each time he looked at his blood pressure monitor, he reminded himself why he had started.
+He wasn't just trying to lower a number.
+He was trying to protect his future.
+Still, one problem remained.
+He was exhausted.
+Not the ordinary tiredness that comes after a busy day.
+This was different.
+Some afternoons, he felt as though someone had secretly drained all the energy from his body.
+Even after a full night's sleep, he often woke up feeling worn out.
+At work, concentrating became difficult.
+Simple tasks seemed to require extra effort.
+Something still wasn't right.
+A week after his diagnosis, Michael returned to the clinic to review the results of his blood tests.
+The doctor entered the room carrying a folder.
+"Your kidneys look good."
+Michael smiled.
+"That's a relief."
+"Your cholesterol is slightly elevated, but manageable."
+Michael nodded.
+Then the doctor paused.
+"There is something else I'd like to discuss."
+Michael's stomach tightened.
+"What is it?"
+"Your blood count shows that you're anemic."
+Michael frowned.
+"Anemic?"
+The word sounded familiar, but he wasn't entirely sure what it meant.
+The doctor pulled up a diagram on the computer.
+"Anemia occurs when the body doesn't have enough healthy red blood cells or enough hemoglobin."
+Michael stared at the screen.
+"And what does that do?"
+"Red blood cells carry oxygen throughout your body. When you don't have enough of them, your organs and tissues receive less oxygen than they need."
+Suddenly, several pieces of the puzzle began fitting together.
+The fatigue.
+The weakness.
+The occasional dizziness.
+Even some of the shortness of breath.
+The doctor explained that anemia is not a disease itself.
+Instead, it is often a sign of another underlying problem.
+Common causes can include:
+Iron deficiency
+Vitamin B12 deficiency
+Folate deficiency
+Chronic illnesses
+Blood loss
+Certain medications
+Bone marrow disorders
+Additional testing would be needed to determine the exact cause.
+Fortunately, Michael's anemia appeared mild.
+But it was significant enough to explain many of the symptoms he had been experiencing.
+"You mean not everything was caused by high blood pressure?" Michael asked.
+"Exactly."
+The doctor smiled.
+"That's why proper medical evaluation is important. Different conditions can cause similar symptoms."
+On the drive home, Michael thought about how easy it would have been to assume everything was related to hypertension.
+If he had ignored the blood tests, he might never have discovered the anemia.
+Health problems were often more complicated than they appeared.
+One symptom could have several possible causes.
+One diagnosis didn't automatically explain everything.
+That evening, Michael shared the news with Angela.
+"Another problem?" she asked.
+"Apparently."
+She sat beside him.
+"Are you worried?"
+"A little."
+Angela squeezed his hand.
+"At least they're finding these things now."
+Michael knew she was right.
+Discovering a problem early often creates more treatment options and better outcomes.
+Ignoring it rarely helps.
+The next few days were filled with additional testing.
+The doctor ordered iron studies, vitamin levels, and several other laboratory tests.
+While waiting for the results, Michael began reading about anemia.
+He learned that symptoms may include:
+Fatigue
+Weakness
+Pale skin
+Dizziness
+Shortness of breath
+Headaches
+Cold hands and feet
+Difficulty concentrating
+Some people develop symptoms gradually over months or years.
+Because the changes happen slowly, they often assume feeling tired is normal.
+The realization made Michael laugh.
+That seemed to be a recurring theme in his life lately.
+He had spent years assuming unhealthy symptoms were simply part of getting older.
+A few days later, the doctor called.
+The cause appeared to be iron deficiency.
+Iron is a mineral the body needs to produce hemoglobin, the protein inside red blood cells that carries oxygen.
+Without enough iron, the body struggles to make healthy red blood cells.
+The doctor recommended treatment, including iron supplementation and dietary adjustments.
+Foods rich in iron include:
+Lean meats
+Fish
+Beans
+Lentils
+Spinach
+Fortified cereals
+The doctor also explained that iron deficiency sometimes results from hidden blood loss, especially in adults.
+Because of this, further evaluation might be necessary to ensure there wasn't another underlying cause.
+Michael appreciated the thoroughness.
+This wasn't just about treating a laboratory result.
+It was about understanding why it happened.
+Over the following weeks, something remarkable occurred.
+His blood pressure continued improving.
+His anemia treatment began helping.
+His energy slowly returned.
+He felt stronger.
+More alert.
+More like himself.
+One Saturday morning, he completed a long walk without feeling exhausted.
+It seemed like a small victory.
+But to Michael, it felt enormous.
+Later that afternoon, he received a call from Rebecca.
+"Mom's doing much better," she said.
+"That's great."
+"Actually, she's become impossible."
+Michael laughed.
+"What now?"
+"She's lecturing everyone about checking their blood pressure."
+For the first time in weeks, Michael laughed so hard his stomach hurt.
+The woman who once ignored her symptoms was now reminding neighbors, friends, and relatives to get screened.
+Perhaps some lessons are learned most deeply after a close call.
+That evening, Michael checked his blood pressure.
+The numbers were lower than they had been since the day at the pharmacy.
+He smiled.
+Progress.
+Not perfection.
+Progress.
+As he put away the monitor, his phone buzzed with a new message from Robert.
+The message was brief.
+
+</p>
     <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
 
@@ -2062,7 +2626,12 @@ End of Chapter 5</p>
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Exercise at least 30 minutes daily.</p>
+      <p>Need your help. Something happened today.
+Michael's smile disappeared.
+Robert rarely sounded worried.
+Whatever had happened, it was serious.
+And by morning, Michael would find himself face-to-face with another health condition that often hides in plain sight—one that affects millions of people and can quietly damage the body for years before being discovered.
+End of Chapter 4 </p>
     `
   },
 
