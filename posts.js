@@ -1992,7 +1992,7 @@ End of Chapter 5</p>
 
   {
     slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    title: "The Machine At The Pharmacy Told A Different Story chapter-1 - by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
     content: `
@@ -2145,7 +2145,7 @@ End of Chapter 1 </p>
 
   {
     slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    title: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter 2: The Man In The Waiting Room",
     content: `
@@ -2285,7 +2285,7 @@ End of Chapter 2 </p>
 
   {
     slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    title: "The Machine At The Pharmacy Told A Different Story chapter 3- by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter 3: The Symptoms Everyone Ignored",
     content: `
@@ -2469,7 +2469,7 @@ End of Chapter 3 </p>
 
   {
     slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    title: "The Machine At The Pharmacy Told A Different Story chapter 4- by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter 4: The Second Secret",
     content: `
@@ -2635,7 +2635,7 @@ End of Chapter 4 </p>
 
   {
     slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-5, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story - by Dr Evelyn",
+    title: "The Machine At The Pharmacy Told A Different Story chapter-5 - by Dr Evelyn",
     image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
     excerpt: "Chapter 5: The Sugar Nobody Saw Coming",
     content: `
