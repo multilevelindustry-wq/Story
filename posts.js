@@ -41,11 +41,11 @@ What they didn't know was that I had begun hiding small changes in my body.
 The headaches came first.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -72,11 +72,11 @@ I blinked several times, hoping nobody noticed.
 The camera was still rolling.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -114,11 +114,11 @@ Unfortunately, I didn't recognize them as potential symptoms of high blood press
 Many people don't.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
   
@@ -171,15 +171,15 @@ It always had.
 The next few weeks became a blur of deadlines, interviews, and increasingly severe headaches.
 
 I began carrying painkillers everywhere.
-
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
+
   
 Instead of finding the cause, I simply treated the discomfort.
 
@@ -212,11 +212,11 @@ What I didn't know was that uncontrolled high blood pressure can force the heart
 - visions problems
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -253,11 +253,11 @@ But Sarah did.
 She always noticed.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
   
@@ -288,12 +288,13 @@ What if this wasn't just stress?
 What if my body had been trying to warn me for months?
 
 </p>
+
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
       
@@ -341,11 +342,11 @@ Part of me still believed I was wasting everyone's time.
 Sarah looked at me.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -376,11 +377,11 @@ Then tightened even more.
 The machine beeped.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -413,11 +414,11 @@ He introduced himself and sat down.
 "Mr. Parker, your blood pressure is very high."
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
 
@@ -450,11 +451,11 @@ The room suddenly felt smaller.
 I stared at him.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -469,11 +470,11 @@ For the first time in years, I felt genuinely afraid.
 The doctor ordered additional tests.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
 
@@ -490,15 +491,15 @@ While waiting for the results, I finally asked the question that had been bother
 "How did this happen?"
 
 The doctor nodded.
-
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
+
 
 "It's a common question."
 
@@ -521,11 +522,11 @@ Others are strongly influenced by lifestyle:
 - Poor sleep
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
   
@@ -562,11 +563,11 @@ But the good news came with another warning.
 Lucky.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
   
@@ -603,11 +604,11 @@ The doctor wasn't finished.
 The word treatment sounded serious.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -640,11 +641,11 @@ Monitor blood pressure frequently.
 The list felt overwhelming.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -687,11 +688,11 @@ Neither of us spoke for several seconds.
 The silence said everything.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -724,14 +725,13 @@ For years I believed success meant pushing harder than everyone else.
 Sleeping less.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
-
 Working more.
 
 Ignoring discomfort.
@@ -746,14 +746,15 @@ What I didn't know was that the hardest part wasn't receiving the diagnosis.
 
 
 </p>
-     <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
+
       <p>
       The hardest part would begin the next morning.
 
@@ -796,11 +797,11 @@ The same alarm clock.
 The same responsibilities waiting for me.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
 
@@ -823,13 +824,14 @@ Taking that first pill meant admitting something I had spent years denying.
 I wasn't invincible.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
+
 
 For most of my adult life, I believed health problems happened to other people.
 
@@ -872,11 +874,11 @@ She laughed.
 "Good."
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -914,11 +916,11 @@ I stood up from my desk and immediately felt dizzy.
 The room tilted slightly.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
 
@@ -955,11 +957,11 @@ For the first time, I understood why many patients feel anxious after receiving 
 Knowledge can be empowering.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
 
@@ -998,11 +1000,11 @@ Many processed foods contain surprisingly large amounts of salt.
 Excess sodium causes the body to retain water, increasing pressure within blood vessels.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1041,11 +1043,11 @@ The next challenge was exercise.
 My doctor recommended regular physical activity.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
 
@@ -1086,14 +1088,14 @@ Less stress.
 Small victories.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
-
+  
 Yet one question continued bothering me.
 
 How much damage had already been done?
@@ -1127,11 +1129,11 @@ For the first time since my diagnosis, I felt hopeful.
 The numbers weren't perfect.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
     </div>
   </div>
 
@@ -1160,14 +1162,16 @@ As I left the clinic, I felt lighter than I had in weeks.
 
 </p>
       <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product For you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
-      <p>For the first time, I believed I might actually beat this condition instead of merely surviving it.
+      <p>
+      
+      For the first time, I believed I might actually beat this condition instead of merely surviving it.
 
 What I didn't know was that a far bigger challenge was approaching.
 
@@ -1215,14 +1219,13 @@ Sarah.
 My doctor.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
-
 A few close family members.
 
 That was it.
@@ -1260,11 +1263,11 @@ Reduce my responsibilities?
 Take me off the air?
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
   
@@ -1311,11 +1314,11 @@ At the time, I considered those habits signs of dedication.
 My doctor had a different opinion.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1356,11 +1359,11 @@ The station manager noticed my expression.
 I remained silent.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -1407,11 +1410,11 @@ Then she laughed.
 I leaned back in my chair.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
 
@@ -1452,11 +1455,11 @@ I was no exception.
 That evening, Linda noticed my mood immediately.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -1491,11 +1494,11 @@ Because deep down, I knew she was right.
 The next morning, I decided to check my blood pressure before work.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1530,11 +1533,11 @@ Not perfection.
 For the next several weeks, I focused on my recovery.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
 
@@ -1565,14 +1568,17 @@ It began during a routine medical appointment.
 
 </p>
       <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
-      <p>A test.
+  
+      <p>
+      
+      A test.
 
 A simple test.
 
@@ -1608,13 +1614,14 @@ The headaches were less frequent.
 The dizziness was fading.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
+
 
 I was exercising regularly and taking my medication exactly as prescribed.
 
@@ -1633,11 +1640,11 @@ Doctors rarely look serious when they have good news.
 I smiled.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1666,13 +1673,14 @@ His voice was calm.
 I felt a knot forming in my chest.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
+
 
 "The heart, kidneys, eyes, brain, and blood vessels can all be damaged over time."
 
@@ -1709,11 +1717,11 @@ The answer came quickly.
 I exhaled.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -1752,11 +1760,11 @@ No dramatic symptoms.
 No obvious warning.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1781,13 +1789,14 @@ For the rest of the appointment, we discussed protecting my kidneys and other or
 He emphasized several important strategies:
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
+
 
 - Taking medication consistently
 - Limiting sodium intake
@@ -1814,13 +1823,14 @@ Reporters rushing between assignments.
 Producers surviving on coffee.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
+
 
 Editors skipping meals.
 
@@ -1849,11 +1859,11 @@ That evening, Linda noticed I was unusually quiet.
 "What did the doctor say?"
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
     </div>
   </div>
 
@@ -1890,11 +1900,11 @@ Every risk.
 Every worst-case scenario.
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -1935,11 +1945,11 @@ Instead of asking, "Why did this happen to me?"
 I started asking, "What can I do about it?"
 
 <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
 
@@ -1972,13 +1982,14 @@ I paid attention to what I ate.
 I walked even when I didn't feel like it.
 
 <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3504/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Omega3- Salmon Oil Plus </a>
     </div>
   </div>
+
 
 I treated my health with the same seriousness I once reserved only for my career.
 
@@ -2001,13 +2012,14 @@ A sudden mistake.
 
 </p>
       <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2915/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
+  
       <p>A very public mistake.
 
 One that millions of viewers would witness.
