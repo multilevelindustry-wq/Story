@@ -236,6 +236,8 @@ postContent.innerHTML = `
     loadComments();
     
     loadPostViews(post.slug);
+
+    loadChapterNavigation(post);
     
   }
 }
@@ -467,6 +469,68 @@ function copyLink() {
   );
 
   alert("Link copied!");
+}
+
+
+function loadChapterNavigation(currentPost) {
+
+  const nav = document.getElementById("chapterNavigation");
+
+  if (!nav) return;
+
+  const chapters = posts
+    .filter(p => p.series === currentPost.series)
+    .sort((a, b) => a.chapter - b.chapter);
+
+  const currentIndex = chapters.findIndex(
+    p => p.slug === currentPost.slug
+  );
+
+  let html = '<div class="chapter-nav">';
+
+  if (currentIndex > 0) {
+    html += `
+      <a class="chapter-btn"
+      href="post.html?slug=${chapters[currentIndex - 1].slug}">
+      ← Previous
+      </a>
+    `;
+  }
+
+  chapters.forEach(ch => {
+
+    if (ch.slug === currentPost.slug) {
+
+      html += `
+        <span class="chapter-number active">
+          ${ch.chapter}
+        </span>
+      `;
+
+    } else {
+
+      html += `
+        <a class="chapter-number"
+        href="post.html?slug=${ch.slug}">
+          ${ch.chapter}
+        </a>
+      `;
+    }
+
+  });
+
+  if (currentIndex < chapters.length - 1) {
+    html += `
+      <a class="chapter-btn"
+      href="post.html?slug=${chapters[currentIndex + 1].slug}">
+      Next →
+      </a>
+    `;
+  }
+
+  html += '</div>';
+
+  nav.innerHTML = html;
 }
 
     
