@@ -499,3 +499,35 @@ footer {
   border:none;
   cursor:pointer;
   }
+
+.chapter-nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  justify-content:center;
+  align-items:center;
+  margin:40px 0;
+}
+
+.chapter-btn{
+  background:#0d9488;
+  color:white;
+  text-decoration:none;
+  padding:10px 16px;
+  border-radius:8px;
+}
+
+.chapter-number{
+  text-decoration:none;
+  padding:8px 12px;
+  border:1px solid #ddd;
+  border-radius:6px;
+  color:#333;
+}
+
+.chapter-number.active{
+  background:#2563eb;
+  color:white;
+  border-color:#2563eb;
+  }
+
