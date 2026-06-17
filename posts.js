@@ -1,10 +1,20 @@
 const posts = [
-    {
-    slug: "blood-pressure-chapter-1-fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "My Blood Pressure Secret Nearly Ended My Career , By Dr. Thomas ",
-    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
-    excerpt: "Chapter 1: The Headaches I Refused to Explain",
-    content: `
+{
+  slug: "blood-pressure-secret-chapter-1",
+
+  series: "My Blood Pressure Secret Nearly Ended My Career",
+
+  chapter: 1,
+
+  title: "The Headaches I Refused to Explain",
+
+  author: "Dr. Thomas",
+
+  image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+
+  excerpt: "Chapter 1: The Headaches I Refused to Explain",
+
+  content: `
       <p> 
       
 
