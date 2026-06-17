@@ -313,12 +313,22 @@ End of Chapter 1
 
 
   {
-    slug: "blood-pressure-chapter-2-fantasy, mystery, drama, health, bp, blood, symptoms, story, supplements, solutions",
-    title: "My Blood Pressure Secret Nearly Ended My Career chapter 2, By Dr. Thomas ",
-    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
-    excerpt: "Chapter 2: The Numbers That Terrified Me",
-    content: `
-      <p>
+  slug: "blood-pressure-secret-chapter-2",
+
+  series: "My Blood Pressure Secret Nearly Ended My Career",
+
+  chapter: 2,
+
+  title: "The Numbers That Terrified Me",
+
+  author: "Dr. Thomas",
+
+  image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+
+  excerpt: "Chapter 2: The Numbers That Terrified Me",
+
+  content: `
+    <p>
       
 The emergency department was unusually quiet when Sarah drove me there.
 
@@ -755,14 +765,24 @@ End of Chapter 2
 </p>
     `
   },
-       {
-    slug: "blood-pressure-chapter-3-fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "My Blood Pressure Secret Nearly Ended My Career chapter 3, By Dr. Thomas ",
-    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
-    excerpt: "Chapter 3: The Pill on My Nightstand",
-    content: `
-      <p>
-      
+{
+  slug: "blood-pressure-secret-chapter-3",
+
+  series: "My Blood Pressure Secret Nearly Ended My Career",
+
+  chapter: 3,
+
+  title: "The Pill on My Nightstand",
+
+  author: "Dr. Thomas",
+
+  image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+
+  excerpt: "Chapter 3: The Pill on My Nightstand",
+
+  content: `
+  <p>
+ 
 The next morning, I woke up expecting everything to feel different.
 
 It didn't.
