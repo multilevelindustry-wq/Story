@@ -16,16 +16,20 @@
      crossorigin="anonymous"></script>
 
   <meta name="google-adsense-account" content="ca-pub-9884706884825746">
-  
+
   <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
     await OneSignal.init({
       appId: "5c8a3b7c-cfbf-475f-9af7-748a0c7ef295",
+      safari_web_id: "web.onesignal.auto.2bb5f943-5f36-4c5b-98f3-fab8c5252044",
+      notifyButton: {
+        enable: true,
+      },
     });
   });
-</script>
+        </script>
   
 </head>
 <body>
