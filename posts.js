@@ -1188,12 +1188,20 @@ End of Chapter 3</p>
   },
 
   {
-    slug: "blood-pressure-chapter-4-fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "My Blood Pressure Secret Nearly Ended My Career chapter 4 , By Dr. Thomas ",
-    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
-    excerpt: "Chapter 4: The Meeting I Never Wanted",
-    content: `
-      <p>
+  slug: "blood-pressure-secret-chapter-4",
+
+  series: "My Blood Pressure Secret Nearly Ended My Career",
+
+  chapter: 4,
+
+  title: "My Blood Pressure Secret Nearly Ended My Career chapter 4, By Dr. Thomas",
+
+  image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+
+  excerpt: "Chapter 4: The Meeting I Never Wanted",
+
+  content: `
+    <p>
       
 
 The email arrived on a Tuesday morning.
@@ -1595,12 +1603,20 @@ End of Chapter 4</p>
   },
 
   {
-    slug: "blood-pressure-chapter-5-fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "My Blood Pressure Secret Nearly Ended My Career chapter 5, By Dr. Thomas ",
-    image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
-    excerpt: "Chapter 5: Damage I Couldn't Feel",
-    content: `
-      <p>
+  slug: "blood-pressure-secret-chapter-5",
+
+  series: "My Blood Pressure Secret Nearly Ended My Career",
+
+  chapter: 5,
+
+  title: "My Blood Pressure Secret Nearly Ended My Career chapter 5, By Dr. Thomas",
+
+  image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
+
+  excerpt: "Chapter 5: Damage I Couldn't Feel",
+
+  content: `
+    <p>
       
 
 The appointment was supposed to be routine.
@@ -2033,12 +2049,20 @@ End of Chapter 5</p>
   },
 
   {
-    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story chapter-1 - by Dr Evelyn",
-    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
-    content: `
-      <p>
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+  chapter: 1,
+
+  title: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+
+  content: `
+    <p>
      
 The bell above the pharmacy door chimed softly as Michael stepped inside.
 He wasn't sick. At least, that's what he kept telling himself.
@@ -2277,12 +2301,20 @@ End of Chapter 1 </p>
   },
 
   {
-    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
-    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter 2: The Man In The Waiting Room",
-    content: `
-      <p>
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+  chapter: 2,
+
+  title: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "Chapter 2: The Man In The Waiting Room",
+
+  content: `
+    <p>
      
 
 Michael arrived at the clinic early the next morning.
