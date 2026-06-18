@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+
+  <url>
+    <loc>https://claunecks.com/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Chapter 1 -->
+
+  <url>
+    <loc>https://claunecks.com/post.html?slug=blood-pressure-secret-chapter-1</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Chapter 2 -->
+
+  <url>
+    <loc>https://claunecks.com/post.html?slug=blood-pressure-secret-chapter-2</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Chapter 3 -->
+
+  <url>
+    <loc>https://claunecks.com/post.html?slug=blood-pressure-secret-chapter-3</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Another Story -->
+
+  <url>
+    <loc>https://claunecks.com/post.html?slug=heart-beat-patient-chapter-1</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://claunecks.com/post.html?slug=heart-beat-patient-chapter-2</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
