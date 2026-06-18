@@ -2530,12 +2530,20 @@ End of Chapter 2 </p>
   },
 
   {
-    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-3, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story chapter 3- by Dr Evelyn",
-    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter 3: The Symptoms Everyone Ignored",
-    content: `
-      <p>
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-3",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+  chapter: 3,
+
+  title: "The Machine At The Pharmacy Told A Different Story chapter 3 - by Dr Evelyn",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "Chapter 3: The Symptoms Everyone Ignored",
+
+  content: `
+    <p>
      
 Three days passed.
 Michael had begun adjusting to his new routine.
@@ -2815,12 +2823,20 @@ End of Chapter 3 </p>
   },
 
   {
-    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-4, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story chapter 4- by Dr Evelyn",
-    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter 4: The Second Secret",
-    content: `
-      <p>
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-4",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+  chapter: 4,
+
+  title: "The Machine At The Pharmacy Told A Different Story chapter 4 - by Dr Evelyn",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "Chapter 4: The Second Secret",
+
+  content: `
+    <p>
       
 
 For the first time in years, Michael felt optimistic.
@@ -3073,12 +3089,20 @@ End of Chapter 4 </p>
   },
 
   {
-    slug: "The-Machine-At-The-Pharmacy-Told-A-Different-Story-chapter-5, treatment, Health, fantasy, mystery, drama, health, bp, blood, symptoms, story",
-    title: "The Machine At The Pharmacy Told A Different Story chapter-5 - by Dr Evelyn",
-    image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-    excerpt: "Chapter 5: The Sugar Nobody Saw Coming",
-    content: `
-      <p>
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-5",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+  chapter: 5,
+
+  title: "The Machine At The Pharmacy Told A Different Story chapter 5 - by Dr Evelyn",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "Chapter 5: The Sugar Nobody Saw Coming",
+
+  content: `
+    <p>
 
 Michael barely slept.
 Robert's message kept replaying in his mind.
@@ -3337,12 +3361,20 @@ End of Chapter 5
   },
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-1- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-1- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 1: The Night My Heart Refused to Rest",
-    content: `
-      <p>
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-1",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 1,
+
+  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 1 - By Dr Paul",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Chapter 1: The Night My Heart Refused to Rest",
+
+  content: `
+    <p>
       
 
 I never thought a heartbeat could become an enemy.
