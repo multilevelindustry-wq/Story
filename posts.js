@@ -2046,6 +2046,16 @@ At forty-eight years old, Michael was the kind of man who rarely visited doctors
 "Just stress," he would say whenever his wife, Angela, asked about his headaches.
 But lately, the headaches had become more frequent.
 There were other signs too.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
 That Saturday morning, he entered the pharmacy only to buy vitamins.
 While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
@@ -2057,6 +2067,16 @@ Michael shrugged.
 The pharmacist laughed gently.
 "Many people with high blood pressure feel fine."
 The words barely registered.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 Mostly because Michael was already sitting down in front of the machine.
 He slipped his arm into the cuff and pressed the button.
 The machine hummed quietly.
@@ -2071,6 +2091,16 @@ Michael pointed at the screen.
 The pharmacist looked concerned.
 "Have you been diagnosed with high blood pressure before?"
 "No."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 "Any headaches?"
 Michael nodded.
 "Dizziness?"
@@ -2086,6 +2116,16 @@ Five minutes later, they repeated the test.
 Still dangerously high.
 The machine had told a different story than the one Michael had been telling himself for years.
 The pharmacist spoke carefully.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 "Your readings are very high. You need to see a doctor today."
 Michael tried to laugh it off.
 "It's probably because I rushed here."
@@ -2097,6 +2137,16 @@ Heart attack.
 Michael suddenly remembered his father.
 His father had suffered a stroke at fifty-two.
 The family had called it bad luck.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 Now Michael wondered whether it had been something more.
 An hour later, Angela was driving him to a medical clinic.
 The doctor listened carefully as Michael described his symptoms.
@@ -2109,6 +2159,16 @@ The result was nearly identical.
 The diagnosis was clear.
 Hypertension—commonly called high blood pressure.
 Michael expected to feel pain.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 He expected some dramatic warning sign.
 Instead, the doctor explained why hypertension is often called the "silent killer."
 Many people have it for years without realizing it.
@@ -2121,6 +2181,16 @@ All while the person feels perfectly normal.
 "That's why regular screening matters," the doctor said.
 "Sometimes a simple machine can save a life."
 Michael thought about the pharmacy.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 About the machine he almost ignored.
 About how close he came to walking away without checking.
 The doctor explained several common symptoms that can occur when blood pressure becomes very high:
@@ -2138,6 +2208,16 @@ Too much salt.
 Too little exercise.
 Long-term stress.
 Poor sleep.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 Family history of hypertension.
 Several risk factors were working together.
 Fortunately, treatment options existed.
@@ -2156,6 +2236,16 @@ For the first time in years, he realized health wasn't something you could assum
 It was something you had to monitor.
 Protect.
 Maintain.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 That evening, Michael sat quietly on his porch.
 The sunset painted the sky orange and gold.
 Angela joined him.
@@ -2168,13 +2258,14 @@ Angela smiled.
 "And came out with a warning."
 </p>
       <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2671/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
+  
       <p>Michael looked toward the horizon.
 Maybe the machine hadn't given him bad news.
 Maybe it had given him a second chance.
@@ -2198,11 +2289,31 @@ Michael arrived at the clinic early the next morning.
 The doctor had scheduled additional tests to determine whether years of uncontrolled high blood pressure had already affected his heart, kidneys, or blood vessels.
 As he sat in the waiting room, he couldn't stop thinking about the numbers from the pharmacy machine.
 182/112.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 Those numbers seemed burned into his memory.
 He looked around the room. Most people were staring at their phones or flipping through magazines. Across from him sat an older man in his late sixties. The man walked slowly with the help of a cane.
 Their eyes met briefly.
 "First time dealing with blood pressure problems?" the man asked.
 Michael smiled weakly.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 "Is it that obvious?"
 The man chuckled.
 "You have the same look I had ten years ago."
@@ -2220,6 +2331,16 @@ Michael shook his head.
 "It doesn't always hurt."
 Michael immediately remembered what the doctor had called it.
 The silent killer.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 Robert tapped his cane gently against the floor.
 "When something hurts, people pay attention. But when you feel fine, you think everything is okay."
 "What happened to you?" Michael asked.
@@ -2235,6 +2356,16 @@ Robert laughed bitterly.
 Michael felt uncomfortable.
 The story sounded familiar.
 Too familiar.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 Robert explained that a stroke occurs when blood flow to part of the brain is interrupted.
 Without oxygen, brain cells begin to die within minutes.
 There are two major types:
@@ -2254,6 +2385,16 @@ Even now, years later, the movement seemed difficult.
 "My speech became slurred. My wife recognized the signs and called emergency services immediately."
 The nurse at the reception desk glanced over, listening quietly.
 Robert continued.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 "If she had waited, I might not be here."
 Just then, Michael's nurse called him for testing.
 His blood pressure was still elevated, though slightly lower than the day before.
@@ -2266,6 +2407,16 @@ The doctor showed him an illustration.
 Over time, the heart muscle can become enlarged.
 Eventually, this may contribute to:
 Heart failure
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 Heart attack
 Irregular heart rhythms
 Reduced pumping efficiency
@@ -2282,6 +2433,16 @@ Robert smiled.
 The words carried weight.
 Not because they were dramatic.
 Because they were true.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 Many people discover hypertension only after a stroke, heart attack, or medical emergency.
 Michael was discovering it before disaster struck.
 The pharmacy machine had given him an opportunity many people never receive.
@@ -2295,6 +2456,16 @@ Processed meats.
 Instant noodles.
 Frozen meals.
 Snack foods.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 No wonder his blood pressure had climbed so high.
 At home, Angela helped prepare a healthier dinner.
 More vegetables.
@@ -2309,13 +2480,14 @@ But slightly lower than before.
 
 </p>
       <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2130/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
+  
       <p>For the first time in a long while, he felt a sense of control.
 Yet as he placed the monitor back on the table, he remembered Robert's words.
 "You have the same look I had ten years ago."
@@ -2339,6 +2511,16 @@ Every morning started with a blood pressure check, followed by a short walk arou
 The numbers on the monitor were slowly improving.
 Not perfect.
 But better.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 For the first time in years, he felt like he was moving in the right direction.
 Then his phone rang.
 It was his younger sister, Rebecca.
@@ -2353,6 +2535,16 @@ But today she looked unusually tired.
 "Mom, what's going on?" Michael asked.
 Margaret waved a hand dismissively.
 "Oh, it's nothing."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 Rebecca rolled her eyes.
 "That's exactly what she's been saying for months."
 Michael sat beside his mother.
@@ -2368,6 +2560,16 @@ Frequent headaches
 Dizziness
 Occasional blurred vision
 Fatigue
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 Shortness of breath when climbing stairs
 Michael felt a chill run through him.
 The symptoms sounded painfully familiar.
@@ -2383,6 +2585,16 @@ Michael couldn't believe it.
 Just days earlier, he had been doing the same thing—ignoring warning signs and assuming everything would somehow be okay.
 Fortunately, Michael had brought his home blood pressure monitor.
 "Let's check it now."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 Margaret reluctantly agreed.
 He wrapped the cuff around her arm.
 The machine began its familiar hum.
@@ -2398,6 +2610,16 @@ His mother tried to laugh.
 But Michael remembered exactly what the pharmacist had said.
 Numbers that high were dangerous.
 Very dangerous.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 An hour later, they were sitting in an emergency department.
 The doctor reviewed Margaret's readings and symptoms.
 Because her blood pressure was extremely elevated and she was experiencing symptoms such as headaches and blurred vision, further evaluation was necessary.
@@ -2413,6 +2635,16 @@ Margaret looked embarrassed.
 Michael nodded.
 Many people made the same mistake.
 They feared becoming a burden.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 They convinced themselves symptoms would disappear.
 They postponed appointments.
 Weeks became months.
@@ -2432,6 +2664,16 @@ Vision problems
 Confusion
 Dizziness
 Nausea
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 In some cases, it can damage vital organs and become life-threatening.
 Fortunately, Margaret had sought care before that happened.
 The doctor adjusted her treatment plan and scheduled close follow-up care.
@@ -2451,6 +2693,16 @@ The older man listened carefully as Michael described what had happened.
 Robert nodded.
 "People usually don't ignore symptoms because they're careless."
 "Then why?"
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 "Because they're busy."
 Michael considered that.
 Robert continued.
@@ -2466,6 +2718,16 @@ The dietary changes were helping.
 The walking routine was helping.
 "Keep going," the doctor said.
 "Small improvements add up."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 Before leaving, Michael noticed a poster on the wall.
 It listed several lifestyle habits known to help manage blood pressure:
 Taking medications as prescribed
@@ -2481,6 +2743,16 @@ Yet advice capable of saving lives.
 That night, Michael sat on his porch again.
 Only this time, he wasn't alone.
 His mother sat beside him.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 "So," Margaret said with a smile, "I guess we're both patients now."
 Michael laughed.
 "Looks that way."
@@ -2493,13 +2765,14 @@ Without that machine, he might never have discovered his condition.
 
 </p>
    <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/ng/sku/2595/landingpage_s.jpg" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
+  
       <p>Without that machine, he might never have convinced his mother to get checked.
 And without that machine, both of them could have continued walking toward a medical emergency without realizing it.
 But an even bigger surprise was waiting.
@@ -2522,6 +2795,16 @@ For the first time in years, Michael felt optimistic.
 His blood pressure readings were gradually improving.
 The pounding headaches that had once interrupted his mornings were becoming less frequent. He was walking every day, taking his medication, and making healthier food choices.
 The changes weren't easy.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 Some mornings he wanted to skip his walk.
 Some evenings he craved the salty foods he used to eat.
 But each time he looked at his blood pressure monitor, he reminded himself why he had started.
@@ -2531,6 +2814,16 @@ Still, one problem remained.
 He was exhausted.
 Not the ordinary tiredness that comes after a busy day.
 This was different.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 Some afternoons, he felt as though someone had secretly drained all the energy from his body.
 Even after a full night's sleep, he often woke up feeling worn out.
 At work, concentrating became difficult.
@@ -2544,6 +2837,16 @@ Michael smiled.
 "Your cholesterol is slightly elevated, but manageable."
 Michael nodded.
 Then the doctor paused.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 "There is something else I'd like to discuss."
 Michael's stomach tightened.
 "What is it?"
@@ -2559,6 +2862,16 @@ Michael stared at the screen.
 Suddenly, several pieces of the puzzle began fitting together.
 The fatigue.
 The weakness.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 The occasional dizziness.
 Even some of the shortness of breath.
 The doctor explained that anemia is not a disease itself.
@@ -2576,6 +2889,16 @@ Fortunately, Michael's anemia appeared mild.
 But it was significant enough to explain many of the symptoms he had been experiencing.
 "You mean not everything was caused by high blood pressure?" Michael asked.
 "Exactly."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 The doctor smiled.
 "That's why proper medical evaluation is important. Different conditions can cause similar symptoms."
 On the drive home, Michael thought about how easy it would have been to assume everything was related to hypertension.
@@ -2589,6 +2912,16 @@ That evening, Michael shared the news with Angela.
 She sat beside him.
 "Are you worried?"
 "A little."
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
 Angela squeezed his hand.
 "At least they're finding these things now."
 Michael knew she was right.
@@ -2613,6 +2946,16 @@ That seemed to be a recurring theme in his life lately.
 He had spent years assuming unhealthy symptoms were simply part of getting older.
 A few days later, the doctor called.
 The cause appeared to be iron deficiency.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3523/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Naturally Sourced CoQ10</a>
+    </div>
+  </div>
+  
 Iron is a mineral the body needs to produce hemoglobin, the protein inside red blood cells that carries oxygen.
 Without enough iron, the body struggles to make healthy red blood cells.
 The doctor recommended treatment, including iron supplementation and dietary adjustments.
@@ -2630,6 +2973,16 @@ This wasn't just about treating a laboratory result.
 It was about understanding why it happened.
 Over the following weeks, something remarkable occurred.
 His blood pressure continued improving.
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
 His anemia treatment began helping.
 His energy slowly returned.
 He felt stronger.
@@ -2644,6 +2997,16 @@ Later that afternoon, he received a call from Rebecca.
 "Actually, she's become impossible."
 Michael laughed.
 "What now?"
+
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3510/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Advanced Formula Lipotropic Adjunct </a>
+    </div>
+  </div>
+  
 "She's lecturing everyone about checking their blood pressure."
 For the first time in weeks, Michael laughed so hard his stomach hurt.
 The woman who once ignored her symptoms was now reminding neighbors, friends, and relatives to get screened.
@@ -2658,14 +3021,16 @@ As he put away the monitor, his phone buzzed with a new message from Robert.
 The message was brief.
 
 </p>
+
     <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
     </div>
   </div>
+  
       <p>Need your help. Something happened today.
 Michael's smile disappeared.
 Robert rarely sounded worried.
@@ -2845,6 +3210,7 @@ Just as he turned off the light, his phone buzzed.
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
+  
       <p>
       A message from Rebecca appeared.
 Mom fell this afternoon. The doctor thinks it may be related to something we never expected.
