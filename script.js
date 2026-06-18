@@ -533,4 +533,15 @@ function loadChapterNavigation(currentPost) {
   nav.innerHTML = html;
 }
 
-    
+   
+document
+  .getElementById("enable-notifications")
+  .addEventListener("click", async () => {
+
+    const permission = await Notification.requestPermission();
+
+    if (permission === "granted") {
+      console.log("Notifications enabled");
+    }
+});
+ 
