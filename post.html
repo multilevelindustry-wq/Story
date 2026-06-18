@@ -34,6 +34,16 @@
      crossorigin="anonymous"></script>
 
   <meta name="google-adsense-account" content="ca-pub-9884706884825746">
+
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "5c8a3b7c-cfbf-475f-9af7-748a0c7ef295",
+    });
+  });
+</script>
   
   
 </head>
@@ -147,6 +157,10 @@
 
   <input type="email" id="emailInput" placeholder="Enter email">
   <button onclick="saveEmail()">Subscribe</button>
+
+      <button id="enable-notifications">
+  Enable Notifications
+      </button>
 </div>
 
       <div>
