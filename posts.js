@@ -1194,11 +1194,11 @@ End of Chapter 3</p>
 
   chapter: 4,
 
-  title: "My Blood Pressure Secret Nearly Ended My Career chapter 4, By Dr. Thomas",
+  title: "Chapter 4: The Meeting I Never Wanted",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
-  excerpt: "Chapter 4: The Meeting I Never Wanted",
+  excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 4, By Dr. Thomas",
 
   content: `
     <p>
@@ -1609,11 +1609,11 @@ End of Chapter 4</p>
 
   chapter: 5,
 
-  title: "My Blood Pressure Secret Nearly Ended My Career chapter 5, By Dr. Thomas",
+  title: "Chapter 5: Damage I Couldn't Feel",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
-  excerpt: "Chapter 5: Damage I Couldn't Feel",
+  excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 5, By Dr. Thomas",
 
   content: `
     <p>
