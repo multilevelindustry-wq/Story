@@ -2055,11 +2055,11 @@ End of Chapter 5</p>
 
   chapter: 1,
 
-  title: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
 
   content: `
     <p>
@@ -2307,11 +2307,11 @@ End of Chapter 1 </p>
 
   chapter: 2,
 
-  title: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  title: "Chapter 2: The Man In The Waiting Room",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Chapter 2: The Man In The Waiting Room",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
 
   content: `
     <p>
@@ -2536,11 +2536,11 @@ End of Chapter 2 </p>
 
   chapter: 3,
 
-  title: "The Machine At The Pharmacy Told A Different Story chapter 3 - by Dr Evelyn",
+  title: "Chapter 3: The Symptoms Everyone Ignored",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Chapter 3: The Symptoms Everyone Ignored",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 3 - by Dr Evelyn",
 
   content: `
     <p>
@@ -2829,11 +2829,11 @@ End of Chapter 3 </p>
 
   chapter: 4,
 
-  title: "The Machine At The Pharmacy Told A Different Story chapter 4 - by Dr Evelyn",
+  title: "Chapter 4: The Second Secret",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Chapter 4: The Second Secret",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 4 - by Dr Evelyn",
 
   content: `
     <p>
@@ -3095,11 +3095,11 @@ End of Chapter 4 </p>
 
   chapter: 5,
 
-  title: "The Machine At The Pharmacy Told A Different Story chapter 5 - by Dr Evelyn",
+  title: "Chapter 5: The Sugar Nobody Saw Coming",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Chapter 5: The Sugar Nobody Saw Coming",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 5 - by Dr Evelyn",
 
   content: `
     <p>
@@ -3367,11 +3367,11 @@ End of Chapter 5
 
   chapter: 1,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 1 - By Dr Paul",
+  title: "Chapter 1: The Night My Heart Refused to Rest",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 1: The Night My Heart Refused to Rest",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 1 - By Dr Paul",
 
   content: `
     <p>
