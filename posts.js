@@ -12,7 +12,7 @@ const posts = [
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
-  excerpt: "Chapter 1: The Headaches I Refused to Explain",
+  excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 1, By Dr. Thomas",
 
   content: `
       <p> 
@@ -326,7 +326,7 @@ End of Chapter 1
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
-  excerpt: "Chapter 2: The Numbers That Terrified Me",
+  excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 2, By Dr. Thomas",
 
   content: `
     <p>
