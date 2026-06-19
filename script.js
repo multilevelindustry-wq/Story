@@ -89,8 +89,8 @@ function displayPosts(list) {
 
 if (postsContainer) {
 
-  // randomly pick 10 posts
-  const randomPosts = getRandomPosts(posts, 16);
+  // randomly pick 24 posts
+  const randomPosts = getRandomPosts(posts, 24);
 
   displayPosts(randomPosts);
   
@@ -277,7 +277,7 @@ function loadRelated(currentSlug) {
   const shuffled = filteredPosts.sort(() => 0.5 - Math.random());
 
   // Pick first 5 random posts
-  const randomPosts = shuffled.slice(0, 5);
+  const randomPosts = shuffled.slice(0, 10);
 
   randomPosts.forEach((p, index) => {
 
