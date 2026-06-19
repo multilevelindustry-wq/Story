@@ -4052,12 +4052,156 @@ End of Chapter 3
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Boy Who Could Stop Time ",
-    image: "https://www.image2url.com/r2/default/images/1780296863759-475dcc93-2dea-4502-80db-74de79e371c0.jpg",
-    excerpt: "Chapter One ",
+    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-4- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
+    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-4- By Dr Paul",
+    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+    excerpt: "Chapter 4: The Night My Heart Started Racing",
     content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
+      <p>
+      
+      
+
+The doctor's words stayed with me for several days.
+"No dangerous rhythm."
+"No immediate emergency."
+Those phrases had become my source of comfort.
+I followed his instructions carefully.
+I stopped drinking coffee in the evenings.
+I carried a water bottle everywhere.
+I went to bed at nearly the same time each night.
+For a while, things seemed to improve.
+The pounding heartbeat became less noticeable.
+I was sleeping a little longer.
+My anxiety was beginning to fade.
+Then came Friday night.
+The night that changed everything.
+I fell asleep around 10:30 p.m.
+For the first few hours, everything was normal.
+Then suddenly, I woke up.
+My eyes flew open.
+Something felt wrong.
+Very wrong.
+My heart wasn't pounding anymore.
+It was racing.
+Fast.
+Much faster than I had ever felt before.
+I placed my hand on my chest.
+The beats seemed to blur together.
+My breathing became shallow.
+A wave of fear shot through my body.
+I sat up immediately.
+The room was dark, but my mind was wide awake.
+The clock beside my bed read 1:43 a.m.
+My heart continued racing.
+My hands became sweaty.
+My mouth felt dry.
+A strange tingling sensation spread through my fingers.
+Then came dizziness.
+For a moment, I thought I might pass out.
+The terrifying thought returned.
+This is it.
+Something is seriously wrong.
+I stumbled into the living room and sat on the couch.
+My heart continued pounding.
+The harder it beat, the more frightened I became.
+The more frightened I became, the faster it seemed to beat.
+I grabbed my phone.
+My first instinct was to search my symptoms online.
+Fortunately, I remembered the doctor's warning.
+Internet searches often turn anxiety into panic.
+Instead, I focused on what was happening.
+Was I having chest pain?
+No.
+Was I fainting?
+No.
+Could I breathe?
+Yes, although it felt difficult.
+Was the heartbeat regular or irregular?
+I couldn't tell.
+The fear made it impossible to concentrate.
+Then something unexpected happened.
+My younger sister called.
+Earlier that evening, she had promised to check on me because she knew I had been struggling with sleep.
+The moment she heard my voice, she knew something was wrong.
+"What's happening?"
+"My heart is racing."
+"How fast?"
+"I don't know."
+"Can you talk?"
+"Yes."
+"Can you breathe?"
+"Yes."
+"Then stay on the phone with me."
+For the next several minutes, she kept me talking.
+At first, I didn't understand why.
+Then I noticed something.
+As I focused on the conversation, my breathing slowed.
+As my breathing slowed, my dizziness improved.
+As the dizziness improved, the fear became less intense.
+And slowly, my heart rate began to settle.
+Twenty minutes later, I felt almost normal.
+I was confused.
+If this had been a major heart problem, why did it improve so quickly?
+The next morning, I called my doctor.
+He scheduled an appointment that afternoon.
+After listening carefully to my description, he asked several questions.
+Then he said something surprising.
+"It may have been a panic attack."
+I stared at him.
+"A panic attack? But my heart was racing."
+"Yes."
+"I was dizzy."
+"That's common."
+"I thought I was dying."
+"Many people experiencing panic attacks believe exactly that."
+The explanation sounded unbelievable.
+How could anxiety create such powerful physical symptoms?
+The doctor explained that panic attacks are not imaginary.
+They are very real physical events.
+When the body's alarm system activates suddenly, large amounts of adrenaline can be released.
+This can cause:
+Rapid heartbeat
+Sweating
+Shaking
+Dizziness
+Tingling sensations
+Chest discomfort
+Shortness of breath
+Feelings of impending doom
+Many people mistake panic attacks for heart attacks.
+The symptoms can be frighteningly similar.
+However, there is an important difference.
+A panic attack usually peaks within minutes and gradually improves.
+A heart attack often involves ongoing symptoms such as chest pressure, pain spreading to the arm or jaw, severe shortness of breath, nausea, or worsening discomfort.
+Still, the doctor emphasized something important.
+Never assume.
+If symptoms are severe, new, or concerning, seek medical attention immediately.
+It is always better to be evaluated than to ignore a potentially serious problem.
+As our conversation continued, another realization hit me.
+The racing episode had occurred after one of the most stressful days I'd had in months.
+I had spent hours worrying about finances.
+Then I worried about sleep.
+Then I worried about my heart.
+Then I worried about worrying.
+By bedtime, my brain had been running a marathon.
+The doctor smiled when I described it.
+"Your body keeps score of stress, even when you think you're handling it."
+That sentence stayed with me.
+Maybe my heart wasn't the entire problem.
+Maybe my nervous system had become stuck in a state of high alert.
+Maybe months of poor sleep and constant fear had created the perfect conditions for panic.
+Before leaving, the doctor taught me a simple breathing exercise.
+Breathe in slowly through the nose for four seconds.
+Hold for four seconds.
+Exhale gently through the mouth for six seconds.
+Repeat several times.
+The goal wasn't to force the heart to slow down.
+The goal was to tell the nervous system that the danger had passed.
+That night, I practiced the exercise before bed.
+For the first time in weeks, I felt a sense of control returning.
+But my journey wasn't over.
+
+</p>
      <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
 
@@ -4066,18 +4210,117 @@ End of Chapter 3
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      A few days later, my sleep journal revealed a clue I had completely overlooked.
+A clue hiding in plain sight.
+And it would lead to a surprising discovery about what I was eating before bedtime.
+End of Chapter 4
+      </p>
     `
   },
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Boy With Fire In The Veins ",
-    image: "https://www.image2url.com/r2/default/images/1780296924142-8cc78274-5807-4b11-94ac-84132da9eaaf.jpg",
-    excerpt: "Chapter One ",
+    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-5- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
+    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-5- By Dr Paul",
+    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+    excerpt: "Chapter 5: The Clue Hidden in My Late-Night Snacks",
     content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
+       <p>
+       
+
+For the first time in months, I felt as though I was making progress.
+The doctor's explanations had reduced some of my fear.
+My sleep journal was filling with useful information.
+And although my heartbeat still interrupted my sleep occasionally, I no longer felt convinced that every episode was a medical emergency.
+Then one evening, while reviewing my journal, I noticed something strange.
+The worst nights seemed to have one thing in common.
+Food.
+Specifically, what I ate before bed.
+At first, I thought it was a coincidence.
+But the pattern kept appearing.
+One night I had eaten spicy noodles at 10 p.m.
+That night, my heart felt unusually noticeable.
+Another night I had finished a large cheeseburger and fries shortly before bed.
+Again, the pounding sensation appeared.
+Then there was the night I devoured half a box of chocolate cookies while watching television.
+The result?
+Another restless night.
+I brought the journal to my next appointment.
+The doctor studied it carefully.
+Then he smiled.
+"I think you've found an important clue."
+That wasn't the answer I expected.
+How could food affect my heartbeat?
+The doctor explained that several digestive processes can influence how the heart feels, especially at night.
+One possible culprit was acid reflux.
+Acid reflux occurs when stomach acid flows back into the esophagus.
+Common symptoms include:
+Burning in the chest (heartburn)
+Sour taste in the mouth
+Chronic cough
+Hoarseness
+Difficulty sleeping
+But here's what surprised me.
+Sometimes acid reflux doesn't feel like heartburn at all.
+Instead, it can create sensations that mimic heart-related symptoms.
+The irritation may trigger discomfort, chest awareness, or even feelings that seem connected to the heartbeat.
+Suddenly, another detail came back to me.
+Many nights I woke up with a slightly sour taste in my mouth.
+I had ignored it.
+Now it seemed important.
+The doctor wasn't finished.
+He explained that large meals before bedtime can also increase heart awareness.
+When digestion is working hard, blood flow increases to the digestive system.
+Lying flat shortly after eating can make some people more aware of bodily sensations, including their heartbeat.
+Then he pointed to another entry in my journal.
+The chocolate cookies.
+"Do you know chocolate contains caffeine?" he asked.
+I froze.
+I had completely forgotten.
+I had proudly eliminated evening coffee while unknowingly replacing it with another stimulant.
+The doctor laughed.
+"You're not the first person to do that."
+Chocolate, especially dark chocolate, contains caffeine and other compounds that may trigger palpitations in sensitive individuals.
+Energy drinks, certain teas, and some medications can have similar effects.
+My detective work wasn't over yet.
+The doctor suggested another experiment.
+For two weeks:
+No large meals within three hours of bedtime.
+Reduce spicy foods at night.
+Avoid chocolate late in the evening.
+Limit sugary snacks before sleep.
+Elevate the head slightly when sleeping.
+Continue the sleep journal.
+I agreed.
+This time, however, I was determined to follow every instruction carefully.
+The results appeared faster than expected.
+Within several nights, something changed.
+I wasn't waking up as often.
+The sour taste disappeared.
+The pounding sensation became less intense.
+Most importantly, I began sleeping longer.
+One morning, I woke up after nearly seven uninterrupted hours of sleep.
+Seven hours.
+It felt like a miracle.
+My energy improved.
+My concentration improved.
+Even my mood improved.
+For the first time, I began to understand something important.
+Many health problems don't have a single cause.
+They are often created by multiple small factors working together.
+In my case, stress was part of the story.
+Poor sleep was part of the story.
+Caffeine was part of the story.
+And now food seemed to be another piece of the puzzle.
+Just when I thought I was finally solving the mystery, however, a new problem appeared.
+During a family gathering, my uncle noticed me rubbing my chest.
+When I explained everything that had happened, his face suddenly became serious.
+"Has anyone checked your thyroid?" he asked.
+I frowned.
+
+
+       </p>
     <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
 
@@ -4086,18 +4329,241 @@ End of Chapter 3
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      "My thyroid?"
+What could a small gland in the neck possibly have to do with my heartbeat?
+My uncle's next words would send me down an entirely new path of investigation.
+A path involving hormones, metabolism, and a hidden condition that can make the heart feel like it's running a race even when the body is standing still.
+And once again, I found myself wondering whether there was still something important hiding beneath the surface.
+
+End of Chapter 5
+      </p>
     `
   },
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "Seven Nights With My Enemy ",
-    image: "https://www.image2url.com/r2/default/images/1780297657788-033d07e5-cc24-45e5-b5cc-d86e6aa28aaa.jpg",
-    excerpt: "Chapter One ",
+    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-6- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
+    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-6- By Dr Paul",
+    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+    excerpt: "Chapter 6: The Tiny Gland That Could Speed Up a Heart",
     content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    
+      <p>
+      
+
+I couldn't stop thinking about my uncle's question.
+
+"Has anyone checked your thyroid?"
+
+At first, it seemed like a strange suggestion.
+
+My heartbeat was the problem.
+
+What did a gland in my neck have to do with it?
+
+The following week, I brought the question to my doctor.
+
+He nodded immediately.
+
+"Actually, that's a very good question."
+
+That answer surprised me.
+
+I had expected him to dismiss the idea.
+
+Instead, he explained that the thyroid gland plays a major role in controlling how the body uses energy.
+
+Located at the front of the neck, this small butterfly-shaped gland produces hormones that influence nearly every organ in the body.
+
+Including the heart.
+
+Especially the heart.
+
+If thyroid hormone levels become too high, the body's systems can begin operating faster than normal.
+
+The result can include:
+
+- Rapid heartbeat
+- Heart palpitations
+- Anxiety
+- Trembling hands
+- Excessive sweating
+- Weight loss
+- Difficulty sleeping
+- Increased appetite
+- Fatigue
+
+As he listed the symptoms, I found myself paying close attention.
+
+Some sounded familiar.
+
+Very familiar.
+
+Particularly the trouble sleeping and the feelings of anxiety.
+
+The doctor ordered blood tests.
+
+The results would take a few days.
+
+In the meantime, I became fascinated by how many different things could affect the heart.
+
+Before this experience, I had assumed heart symptoms always came from the heart itself.
+
+Now I was learning that hormones, stress, sleep, digestion, and even emotions could influence how the heart feels.
+
+The body was far more connected than I had ever imagined.
+
+Three days later, the clinic called.
+
+My results were ready.
+
+I arrived expecting another mystery.
+
+Instead, the doctor greeted me with reassuring news.
+
+"Your thyroid levels are normal."
+
+Part of me felt relieved.
+
+Part of me felt frustrated.
+
+Another possible answer had disappeared.
+
+"Then we're back to square one?" I asked.
+
+He shook his head.
+
+"Not at all."
+
+He opened my chart and pointed to something important.
+
+Although my thyroid was normal, many other things had already improved.
+
+My sleep was better.
+
+My caffeine intake was lower.
+
+My stress awareness had increased.
+
+My episodes were becoming less frequent.
+
+The evidence suggested we were moving in the right direction.
+
+I knew he was right.
+
+Yet something still bothered me.
+
+One symptom continued to appear.
+
+Fatigue.
+
+No matter how much I improved my habits, I often woke feeling tired.
+
+The doctor asked more questions.
+
+Did I wake with headaches?
+
+Sometimes.
+
+Did I snore loudly?
+
+According to my family, yes.
+
+Did I ever feel sleepy during the day?
+
+More often than I wanted to admit.
+
+His expression became thoughtful.
+
+"We may need to revisit the sleep issue."
+
+The possibility of sleep apnea returned to the conversation.
+
+This time, however, he explained it in greater detail.
+
+Sleep apnea occurs when breathing repeatedly becomes partially or completely blocked during sleep.
+
+Each interruption may last several seconds.
+
+Some people experience dozens of episodes every hour without realizing it.
+
+Every interruption forces the brain to briefly wake up.
+
+The person often doesn't remember these awakenings.
+
+But the body does.
+
+Over time, sleep quality suffers.
+
+Oxygen levels may fluctuate.
+
+Stress hormones can increase.
+
+Blood pressure may rise.
+
+And heart palpitations can become more noticeable.
+
+The more he explained, the more concerned I became.
+
+Could this have been happening for years?
+
+The doctor recommended a sleep study.
+
+I agreed.
+
+If poor sleep was contributing to my symptoms, I wanted answers.
+
+A few days later, I arrived at a sleep center.
+
+The experience felt strange.
+
+Sensors were attached to my chest, head, and legs.
+
+A small monitor tracked my breathing.
+
+Another measured oxygen levels.
+
+I looked more like a science experiment than a patient.
+
+The technician smiled.
+
+"Try to sleep normally."
+
+Normal was the one thing I wasn't sure I could do.
+
+Still, eventually exhaustion won.
+
+I fell asleep.
+
+The next morning, I went home and waited.
+
+And waited.
+
+And waited.
+
+The anticipation felt familiar.
+
+Just like waiting for the heart monitor results.
+
+When the phone finally rang, my stomach tightened.
+
+The sleep specialist wanted to discuss the findings in person.
+
+That immediately made me nervous.
+
+Was something seriously wrong?
+
+The appointment was scheduled for the following week.
+
+Those seven days felt longer than seven months.
+
+Every night, my imagination created new possibilities.
+
+Every morning, I wondered whether the study had finally uncovered the real reason behind my sleepless nights.
+
+
+      </p>
      <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
 
@@ -4106,18 +4572,270 @@ End of Chapter 3
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      When the day finally arrived, I sat across from the specialist.
+
+She opened a folder and smiled warmly.
+
+"The results explain a lot."
+
+My heart skipped.
+
+Not from palpitations.
+
+From anticipation.
+
+For months, I had been chasing clues.
+
+Now it seemed I was finally about to receive one of the biggest answers yet.
+
+And what she revealed would change not only my sleep, but my understanding of how closely the heart and lungs work together.
+
+      </p>
     `
   },
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Girl The Wolves Chose",
-    image: "https://www.image2url.com/r2/default/images/1780297796435-5ba217f1-616b-4f4c-abd9-225d3a57a236.jpg",
-    excerpt: "Chapter One",
+    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-7- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
+    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-7- By Dr Paul",
+    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+    excerpt: "Chapter 7: What Happened While I Was Sleeping",
     content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
+      <p>
+      
+
+I sat across from the sleep specialist, trying to remain calm.
+
+For months, I had been searching for answers.
+
+Heart monitors.
+
+Blood tests.
+
+Sleep journals.
+
+Lifestyle changes.
+
+Every clue had brought me a little closer to understanding why my heartbeat kept interrupting my sleep.
+
+Now, it seemed the biggest clue of all was sitting inside the folder on the doctor's desk.
+
+She opened it and pointed to several charts.
+
+"Your sleep study showed mild to moderate obstructive sleep apnea."
+
+For a moment, I just stared at her.
+
+Part of me felt relieved.
+
+At least there was finally something concrete.
+
+Another part of me felt confused.
+
+How could a breathing problem affect my heart?
+
+The specialist explained.
+
+While I slept, my breathing repeatedly became partially blocked.
+
+Sometimes the interruptions lasted only a few seconds.
+
+Other times they lasted longer.
+
+Each time it happened, my body reacted as if it were facing an emergency.
+
+Oxygen levels would drop slightly.
+
+The brain would notice.
+
+Stress hormones would be released.
+
+My heart rate would change.
+
+Then my brain would briefly wake me up just enough to restart normal breathing.
+
+Most of the time, I had no memory of these awakenings.
+
+But they were happening.
+
+Again and again.
+
+Night after night.
+
+The specialist showed me a graph.
+
+The line looked like a series of tiny battles occurring while I slept.
+
+Breathing interruptions.
+
+Oxygen fluctuations.
+
+Brief awakenings.
+
+Heart rate changes.
+
+It was happening dozens of times throughout the night.
+
+Suddenly, many things made sense.
+
+The exhaustion.
+
+The headaches.
+
+The restless sleep.
+
+Even some of the palpitations.
+
+My body had never truly been resting.
+
+It had been working overtime while I slept.
+
+The specialist explained that sleep apnea is surprisingly common.
+
+Many people live with it for years without knowing.
+
+Common signs include:
+
+- Loud snoring
+- Gasping or choking during sleep
+- Morning headaches
+- Excessive daytime sleepiness
+- Difficulty concentrating
+- Irritability
+- High blood pressure
+- Nighttime palpitations
+
+As she listed the symptoms, it felt as if she were reading my diary.
+
+Then she explained something even more important.
+
+Untreated sleep apnea doesn't just affect sleep.
+
+Over time, it may increase the risk of:
+
+- High blood pressure
+- Heart rhythm problems
+- Stroke
+- Heart disease
+- Type 2 diabetes
+
+That caught my attention immediately.
+
+For months, I had focused entirely on the pounding heartbeat.
+
+Meanwhile, another condition had been quietly affecting my entire body.
+
+The specialist discussed treatment options.
+
+Because my condition wasn't severe, we would begin with lifestyle changes.
+
+She recommended:
+
+- Maintaining a healthy weight
+- Sleeping on my side instead of my back
+- Avoiding alcohol close to bedtime
+- Following a regular sleep schedule
+- Continuing to limit caffeine late in the day
+
+She also mentioned a device called CPAP.
+
+CPAP stands for Continuous Positive Airway Pressure.
+
+It uses gentle air pressure to keep the airway open during sleep.
+
+Some patients need it immediately.
+
+Others, especially with milder cases, may first try lifestyle modifications and reassessment.
+
+I left the clinic feeling something I hadn't felt in a long time.
+
+Hope.
+
+For months, every symptom had seemed mysterious and frightening.
+
+Now the puzzle pieces were starting to connect.
+
+Stress.
+
+Poor sleep.
+
+Palpitations.
+
+Sleep apnea.
+
+Each piece influenced the others.
+
+Fixing one could help improve the rest.
+
+That night, I decided to make a serious commitment.
+
+No more treating sleep as an afterthought.
+
+I created a bedtime routine.
+
+The television went off earlier.
+
+My phone stayed out of reach.
+
+I dimmed the lights an hour before bed.
+
+Instead of scrolling endlessly through social media, I read a book.
+
+The changes felt small.
+
+Almost too small.
+
+But over the next two weeks, something remarkable happened.
+
+I started sleeping longer.
+
+My morning headaches became less frequent.
+
+My energy improved.
+
+And most importantly, the nighttime pounding heartbeat became less common.
+
+Not gone.
+
+But noticeably less common.
+
+For the first time since this journey began, I woke up one morning feeling refreshed.
+
+Truly refreshed.
+
+I stood in front of the mirror and smiled.
+
+The dark circles under my eyes had faded.
+
+My face looked healthier.
+
+Even my coworkers noticed.
+
+"You look different," one of them said.
+
+"Better."
+
+I laughed.
+
+"I finally slept."
+
+Yet despite all the progress, one mystery remained.
+
+Every now and then, I still experienced sudden episodes of pounding or fluttering in my chest.
+
+They were less frequent.
+
+Less intense.
+
+But they hadn't disappeared completely.
+
+When I mentioned this during my follow-up visit, the doctor nodded.
+
+"That's not unusual."
+
+
+      </p>
     <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
 
@@ -4126,7 +4844,24 @@ End of Chapter 3
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Organic Green Tea</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      
+      Then he asked a question that surprised me.
+
+"How much water are you drinking each day?"
+
+I blinked.
+
+Water?
+
+After everything we had investigated, how could something so simple matter?
+
+The doctor smiled.
+
+"You'd be amazed what dehydration can do to the heart."
+
+And just like that, another chapter of the mystery began.
+</p>
     `
   },
   
