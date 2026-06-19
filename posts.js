@@ -3558,12 +3558,20 @@ End of Chapter 1
   
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-2- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-2- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 2: The Doctor Asked One Question That Changed Everything",
-    content: `
-      <p>
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-2",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 2,
+
+  title: "Chapter 2: The Doctor Asked One Question That Changed Everything",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 2 - By Dr Paul",
+
+  content: `
+    <p>
      
 
 The waiting room felt colder than usual.
@@ -3782,14 +3790,21 @@ End of Chapter 2
     `
   },
   
-  
-    {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-3- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-3- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 3: The Heart Monitor Revealed a Hidden Pattern",
-    content: `
-      <p>
+  {
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-3",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 3,
+
+  title: "Chapter 3: The Heart Monitor Revealed a Hidden Pattern",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 3 - By Dr Paul",
+
+  content: `
+    <p>
       
 
 For seven days, the monitor stayed attached to my chest.
@@ -4052,12 +4067,20 @@ End of Chapter 3
   
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-4- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-4- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 4: The Night My Heart Started Racing",
-    content: `
-      <p>
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-4",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 4,
+
+  title: "Chapter 4: The Night My Heart Started Racing",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 4 - By Dr Paul",
+
+  content: `
+    <p>
       
       
 
@@ -4221,12 +4244,20 @@ End of Chapter 4
   
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-5- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-5- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 5: The Clue Hidden in My Late-Night Snacks",
-    content: `
-       <p>
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-5",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 5,
+
+  title: "Chapter 5: The Clue Hidden in My Late-Night Snacks",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 5 - By Dr Paul",
+
+  content: `
+    <p>
        
 
 For the first time in months, I felt as though I was making progress.
