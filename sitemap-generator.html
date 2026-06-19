@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Clauneck Sitemap Generator</title>
+
+<style>
+body{
+  font-family:Arial,sans-serif;
+  max-width:1200px;
+  margin:20px auto;
+  padding:20px;
+}
+
+button{
+  background:#0d9488;
+  color:white;
+  border:none;
+  padding:12px 20px;
+  border-radius:8px;
+  cursor:pointer;
+  margin-bottom:15px;
+}
+
+textarea{
+  width:100%;
+  height:500px;
+  padding:15px;
+}
+</style>
+
+<script src="posts.js"></script>
+</head>
+
+<body>
+
+<h1>Clauneck Sitemap Generator</h1>
+
+<button onclick="generateSitemap()">
+Generate Sitemap
+</button>
+
+<button onclick="downloadSitemap()">
+Download sitemap.xml
+</button>
+
+<textarea id="output"></textarea>
+
+<script>
+
+const DOMAIN = "https://claunecks.com";
+
+function generateSitemap(){
+
+  let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`;
+
+  xml += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+
+  // Homepage
+
+  xml += `
+<url>
+  <loc>${DOMAIN}</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+</url>
+`;
+
+  posts.forEach(post => {
+
+    xml += `
+<url>
+  <loc>${DOMAIN}/post.html?slug=${post.slug}</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+`;
+
+  });
+
+  xml += `</urlset>`;
+
+  document.getElementById("output").value = xml;
+}
+
+function downloadSitemap(){
+
+  const xml =
+document.getElementById("output").value;
+
+  const blob =
+new Blob([xml],{
+type:"application/xml"
+});
+
+  const a =
+document.createElement("a");
+
+  a.href =
+URL.createObjectURL(blob);
+
+  a.download =
+"sitemap.xml";
+
+  a.click();
+
+}
+
+</script>
+
+</body>
+  </html>
