@@ -773,13 +773,13 @@ End of Chapter 2
 
   chapter: 3,
 
-  title: "The Pill on My Nightstand",
+  title: "Chapter 3: The Pill on My Nightstand",
 
   author: "Dr. Thomas",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
-  excerpt: "Chapter 3: The Pill on My Nightstand",
+  excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 3, By Dr. Thomas",
 
   content: `
   <p>
