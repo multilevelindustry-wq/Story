@@ -4374,13 +4374,20 @@ End of Chapter 5
   
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-6- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-6- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 6: The Tiny Gland That Could Speed Up a Heart",
-    content: `
-    
-      <p>
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-6",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 6,
+
+  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 6 - By Dr Paul",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Chapter 6: The Tiny Gland That Could Speed Up a Heart",
+
+  content: `
+    <p>
       
 
 I couldn't stop thinking about my uncle's question.
@@ -4626,14 +4633,21 @@ And what she revealed would change not only my sleep, but my understanding of ho
     `
   },
   
-  
-    {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-7- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-7- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 7: What Happened While I Was Sleeping",
-    content: `
-      <p>
+  {
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-7",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 7,
+
+  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 7 - By Dr Paul",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Chapter 7: What Happened While I Was Sleeping",
+
+  content: `
+    <p>
       
 
 I sat across from the sleep specialist, trying to remain calm.
@@ -4896,14 +4910,21 @@ And just like that, another chapter of the mystery began.
     `
   },
   
-  
-    {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-8- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-8- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 8: The Hidden Effect of Dehydration",
-    content: `
-      <p>
+  {
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-8",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 8,
+
+  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 8 - By Dr Paul",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Chapter 8: The Hidden Effect of Dehydration",
+
+  content: `
+    <p>
       
       
 
@@ -5161,14 +5182,21 @@ It is the system controlling it.
     `
   },
   
-    {
-    slug: "heartbeat-kept-interrupting-my-sleep-chaoter-9- treatment, Health, fantasy, mystery, drama, health, heartbeat, sleep, blood, symptoms, story",
-    title: "Why My Heartbeat Kept Interrupting My Sleep chapter-9- By Dr Paul",
-    image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
-    excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
-    content: `
-      <p>
-      
+   {
+  slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+
+  series: "Why My Heartbeat Kept Interrupting My Sleep",
+
+  chapter: 9,
+
+  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+
+  image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
+
+  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+
+  content: `
+    <p>   
       
 I used to believe the heart was completely independent.
 
