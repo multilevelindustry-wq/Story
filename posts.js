@@ -328,9 +328,9 @@ End of Chapter 1
 
   title: "The Numbers That Terrified Me",
 
-  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+  alt: "blood pressure symptoms I ignored story, hypertension nearly ruined my career, health warning signs before hypertension diagnosis, blood pressure lesson from personal experience, medical story about hypertension dangers",
 
-  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+  keywords: "silent killer hypertension personal story, blood pressure diagnosis life changing story, high blood pressure recovery journey, hypertension awareness story for adults, real life hypertension struggles",
 
   description: "My Blood Pressure Secret Nearly Ended My Career is an emotional health story about hidden hypertension symptoms, warning signs, lifestyle changes, and the journey to controlling high blood pressure.",
 
@@ -787,9 +787,9 @@ End of Chapter 2
 
   title: "Chapter 3: The Pill on My Nightstand",
 
-  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+  alt: "my blood pressure secret nearly ended my career story, true story about high blood pressure symptoms, emotional hypertension survival story, health story about uncontrolled blood pressure, high blood pressure changed my life story",
 
-  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+  keywords: "hidden hypertension warning signs story, how hypertension affected my career, blood pressure problems and work stress story, my journey with high blood pressure, scary hypertension experience story",
 
   description: "Discover how ignoring high blood pressure symptoms almost destroyed a successful career and learn important lessons about hypertension prevention, treatment, and healthy living.",
 
@@ -1214,9 +1214,9 @@ End of Chapter 3</p>
 
   title: "Chapter 4: The Meeting I Never Wanted",
 
-  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+  alt: "blood pressure emergency warning story, hypertension treatment journey story, lifestyle changes after hypertension diagnosis, controlling high blood pressure naturally story, hypertension recovery motivation story",
 
-  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+  keywords: "blood pressure awareness article story, high blood pressure education through storytelling, medical drama about hypertension, inspirational hypertension health story, hypertension prevention story for families",
 
   description: "A powerful health story revealing the silent dangers of hypertension, unexpected blood pressure symptoms, medical warnings, and the lifestyle changes that saved a career.",
     
@@ -1635,9 +1635,9 @@ End of Chapter 4</p>
 
   title: "Chapter 5: Damage I Couldn't Feel",
 
-  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+  alt: "high blood pressure patient experience story, hypertension mistakes people make, early signs of dangerous blood pressure, high blood pressure without symptoms story, how I discovered my hypertension",
 
-  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+  keywords: "blood pressure health lesson story, hypertension survival lessons, career stress causing high blood pressure story, stress and hypertension personal experience, hidden health problems affecting career",
 
   description: "Learn from this inspiring blood pressure journey about stress, hidden health problems, early diagnosis, and how managing hypertension can protect your future.",
 
