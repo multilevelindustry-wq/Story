@@ -6,7 +6,7 @@ const posts = [
 
   chapter: 1,
 
-  title: "The Headaches I Refused to Explain",
+  title: "Chapter 1 : The Headaches I Refused to Explain",
 
   alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
 
