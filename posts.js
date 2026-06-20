@@ -328,6 +328,12 @@ End of Chapter 1
 
   title: "The Numbers That Terrified Me",
 
+  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+
+  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+
+  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+
   author: "Dr. Thomas",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
@@ -781,6 +787,12 @@ End of Chapter 2
 
   title: "Chapter 3: The Pill on My Nightstand",
 
+  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+
+  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+
+  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+
   author: "Dr. Thomas",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
@@ -1202,6 +1214,12 @@ End of Chapter 3</p>
 
   title: "Chapter 4: The Meeting I Never Wanted",
 
+  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+
+  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+
+  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+    
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
   excerpt: "My Blood Pressure Secret Nearly Ended My Career chapter 4, By Dr. Thomas",
@@ -1616,6 +1634,12 @@ End of Chapter 4</p>
   chapter: 5,
 
   title: "Chapter 5: Damage I Couldn't Feel",
+
+  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+
+  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+
+  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
