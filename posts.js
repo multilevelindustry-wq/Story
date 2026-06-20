@@ -8,6 +8,12 @@ const posts = [
 
   title: "The Headaches I Refused to Explain",
 
+  alt: "Blood pressure health story showing a doctor discovering a hidden health secret",
+
+  keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
+
+  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+
   author: "Dr. Thomas",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
