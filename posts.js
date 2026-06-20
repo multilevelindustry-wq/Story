@@ -5477,17 +5477,17 @@ My blood.
   },
 
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-24",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-10",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 24,
+  chapter: 10,
 
-  title: "Chapter 24: Learning to Live Without Waiting for Perfect Health",
+  title: "Chapter 10: The Blood Test That Revealed Another Clue",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 24 - By Dr Paul",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 10 - By Dr Paul",
 
   content: `
       <p> 
