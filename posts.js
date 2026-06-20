@@ -4380,11 +4380,11 @@ End of Chapter 5
 
   chapter: 6,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 6 - By Dr Paul",
+  title: "Chapter 6: The Tiny Gland That Could Speed Up a Heart",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 6: The Tiny Gland That Could Speed Up a Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 6 - By Dr Paul",
 
   content: `
     <p>
@@ -4640,11 +4640,11 @@ And what she revealed would change not only my sleep, but my understanding of ho
 
   chapter: 7,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 7 - By Dr Paul",
+  title: "Chapter 7: What Happened While I Was Sleeping",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 7: What Happened While I Was Sleeping",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 7 - By Dr Paul",
 
   content: `
     <p>
@@ -4917,11 +4917,11 @@ And just like that, another chapter of the mystery began.
 
   chapter: 8,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 8 - By Dr Paul",
+  title: "Chapter 8: The Hidden Effect of Dehydration",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 8: The Hidden Effect of Dehydration",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 8 - By Dr Paul",
 
   content: `
     <p>
@@ -5189,11 +5189,11 @@ It is the system controlling it.
 
   chapter: 9,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
 
   content: `
     <p>   
@@ -5477,17 +5477,17 @@ My blood.
   },
 
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-24",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 24,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 24: Learning to Live Without Waiting for Perfect Health",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 24 - By Dr Paul",
 
   content: `
       <p> 
@@ -5749,11 +5749,11 @@ And like every muscle, it needs the right kind of training.
 
   chapter: 11,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 11 - By Dr Paul",
+  title: "Chapter 11: The Exercise I Was Afraid Of",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 11: The Exercise I Was Afraid Of",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 11 - By Dr Paul",
 
   content: `
       <p>
@@ -6030,23 +6030,22 @@ and becoming trapped by it.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-12",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 12,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 12: When Checking My Heart Became the Problem",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 12 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 12: When Checking My Heart Became the Problem
-
+      
 I thought checking my heartbeat was protecting me.
 
 Every time I placed my fingers on my wrist, I believed I was being responsible.
@@ -6298,22 +6297,22 @@ I wanted to understand how to stop it from returning.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-13",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 13,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 13: The Habits That Protected My Heart",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 13 - By Dr Paul",
 
   content: `
+  
       <p>
-      Chapter 13: The Habits That Protected My Heart
-
+      
 When this journey started, I thought the solution would be one thing.
 
 One test.
@@ -6588,23 +6587,22 @@ They could help someone else.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-14",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 14,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 14: When Someone Else Needed My Help",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 14 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 14: When Someone Else Needed My Help
-
+      
 The voice on the phone sounded familiar.
 
 Not because I recognized the words.
@@ -6844,22 +6842,22 @@ The silent relationship between the heart and the pressure inside the blood vess
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-15",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 15,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 15: The Number on the Blood Pressure Machine",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 15 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 15: The Number on the Blood Pressure Machine
+      
 
 I stared at the screen.
 
@@ -7113,22 +7111,23 @@ Could something I was taking be affecting my heartbeat?
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-16",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 16,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 16: The Medicine Cabinet Mystery",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 16 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 16: The Medicine Cabinet Mystery
+      
+      
 
 I never thought my own medicine cabinet could hold clues about my heartbeat.
 
@@ -7385,23 +7384,22 @@ Because I wanted to protect the heart that had carried me through everything.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-17",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 17,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 17: The Family History That Changed My Thinking",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 17 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 17: The Family History That Changed My Thinking
-
+      
 The moment the doctor asked about my family history, something inside me changed.
 
 For months, I had been searching for the reason behind my symptoms.
@@ -7645,22 +7643,22 @@ The signs that could mean the body was asking for urgent help.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-18",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 18,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 18: The Symptoms I Should Never Ignore",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 18 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 18: The Symptoms I Should Never Ignore
+      
 
 One of the biggest lessons I learned during my journey was this:
 
@@ -7861,22 +7859,22 @@ And I was about to discover how everyday surroundings could influence long-term 
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-19",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 19,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 19: The Things Around Me Affecting My Heart",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 19 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 19: The Things Around Me Affecting My Heart
+      
 
 I used to think heart health was only about what happened inside my chest.
 
@@ -8103,22 +8101,22 @@ And that would become the final stage of my journey.
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-20",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 20,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 20: Building a Stronger Heart and Mind",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 20 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 20: Building a Stronger Heart and Mind
+      
 
 When I first started this journey, my only goal was simple.
 
@@ -8343,23 +8341,22 @@ If my heartbeat could speak, what was it trying to tell me all along
 
   
     {
-    slug: "heartbeat-kept-interrupting-my-sleep-chapter-9",
+    slug: "heartbeat-kept-interrupting-my-sleep-chapter-21",
 
   series: "Why My Heartbeat Kept Interrupting My Sleep",
 
-  chapter: 9,
+  chapter: 21,
 
-  title: "Why My Heartbeat Kept Interrupting My Sleep chapter 9 - By Dr Paul",
+  title: "Chapter 21: If My Heart Could Speak",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
-  excerpt: "Chapter 9: The Invisible Connection Between My Brain and My Heart",
+  excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 21 - By Dr Paul",
 
   content: `
   
       <p>
-      Chapter 21: If My Heart Could Speak
-
+      
 There were nights I used to lie awake and hate my heartbeat.
 
 Every thump felt like an interruption.
