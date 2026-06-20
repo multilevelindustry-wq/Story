@@ -6731,17 +6731,6 @@ My journey had started with one frightening question:
 
 "Why is my heartbeat interrupting my sleep?"
 
-Now I had another question:
-
-"How many people are suffering because they don't understand what their bodies are trying to tell them?"
-
-That question would lead me to the next part of my journey.
-
-A journey into prevention.
-
-Because I didn't just want to solve my problem.
-
-I wanted to understand how to stop it from returning.
 
       </p>
       
@@ -6754,7 +6743,20 @@ I wanted to understand how to stop it from returning.
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      Now I had another question:
+
+"How many people are suffering because they don't understand what their bodies are trying to tell them?"
+
+That question would lead me to the next part of my journey.
+
+A journey into prevention.
+
+Because I didn't just want to solve my problem.
+
+I wanted to understand how to stop it from returning.
+
+      </p>
     `
   },
 
@@ -7062,15 +7064,6 @@ The fear.
 
 The confusion.
 
-The sleepless nights.
-
-I listened carefully as he described his symptoms.
-
-And I realized something.
-
-The lessons I had learned were not just for me.
-
-They could help someone else.
 
       </p>
       <div class="affiliate-box">
@@ -7082,7 +7075,18 @@ They could help someone else.
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      The sleepless nights.
+
+I listened carefully as he described his symptoms.
+
+And I realized something.
+
+The lessons I had learned were not just for me.
+
+They could help someone else.
+
+      </p>
     `
   },
 
@@ -7348,13 +7352,6 @@ Not an emergency.
 
 Not a crisis.
 
-But enough to raise a question.
-
-Could my heartbeat story have been connected to my blood pressure all along?
-
-It was time to learn another important lesson.
-
-The silent relationship between the heart and the pressure inside the blood vessels.
 
       </p>
       <div class="affiliate-box">
@@ -7366,7 +7363,17 @@ The silent relationship between the heart and the pressure inside the blood vess
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      
+      But enough to raise a question.
+
+Could my heartbeat story have been connected to my blood pressure all along?
+
+It was time to learn another important lesson.
+
+The silent relationship between the heart and the pressure inside the blood vessels.
+
+</p>
     `
   },
 
@@ -7648,7 +7655,19 @@ My energy was better.
 
 My anxiety was lower.
 
-But then, during a conversation with the doctor, he mentioned another factor that could influence heart rhythm and sleep.
+
+      </p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
+      <p>
+      But then, during a conversation with the doctor, he mentioned another factor that could influence heart rhythm and sleep.
 
 Something many people consume every day without thinking.
 
@@ -7663,16 +7682,6 @@ And I began wondering...
 Could something I was taking be affecting my heartbeat?
 
       </p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product for you:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
-    </div>
-  </div>
-  
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
@@ -7961,7 +7970,19 @@ It is a reason to be informed.
 
 That conversation gave me a new perspective.
 
-I couldn't choose my genes.
+
+      </p>
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
+      <p>
+      I couldn't choose my genes.
 
 But I could influence many of my daily choices.
 
@@ -7974,16 +7995,6 @@ Not because I was afraid anymore.
 Because I wanted to protect the heart that had carried me through everything.
 
       </p>
-<div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product for you:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
-    </div>
-  </div>
-  
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
@@ -8260,7 +8271,17 @@ However, the doctor reminded me of one important truth.
 
 Heart health is not only about preventing disease.
 
-It is also about recognizing emergencies.
+      </p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+      <p>
+      It is also about recognizing emergencies.
 
 Because while many heart sensations are harmless, some symptoms require immediate attention.
 
@@ -8271,15 +8292,6 @@ That lesson would become important when I learned about the signs people should 
 The signs that could mean the body was asking for urgent help.
 
       </p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product for you:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
-    </div>
-  </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
@@ -8515,13 +8527,6 @@ The environment around them.
 
 The air they breathe.
 
-The habits they live with.
-
-The daily exposures that slowly affect the body.
-
-The doctor called it "protecting the heart beyond the obvious."
-
-And I was about to discover how everyday surroundings could influence long-term health.
 
       </p>
       
@@ -8534,7 +8539,16 @@ And I was about to discover how everyday surroundings could influence long-term 
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      The habits they live with.
+
+The daily exposures that slowly affect the body.
+
+The doctor called it "protecting the heart beyond the obvious."
+
+And I was about to discover how everyday surroundings could influence long-term health.
+
+      </p>
     `
   },
 
@@ -8786,14 +8800,6 @@ But just when I thought my story had reached its final lesson, the doctor introd
 
 Something that surprised me.
 
-Recovery is not only about fixing problems.
-
-It is also about building resilience.
-
-The ability to face future challenges without falling back into fear.
-
-And that would become the final stage of my journey.
-
       </p>
       <div class="affiliate-box">
     <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
@@ -8803,7 +8809,16 @@ And that would become the final stage of my journey.
       <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
     </div>
   </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      Recovery is not only about fixing problems.
+
+It is also about building resilience.
+
+The ability to face future challenges without falling back into fear.
+
+And that would become the final stage of my journey.
+
+      </p>
     `
   },
 
@@ -9065,11 +9080,6 @@ To change.
 
 To care.
 
-But there was still one final part of the story.
-
-A moment when I had to look back at everything I learned and ask myself:
-
-If my heartbeat could speak, what was it trying to tell me all along
 
       </p>
       <div class="affiliate-box">
@@ -9081,7 +9091,14 @@ If my heartbeat could speak, what was it trying to tell me all along
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      But there was still one final part of the story.
+
+A moment when I had to look back at everything I learned and ask myself:
+
+If my heartbeat could speak, what was it trying to tell me all along
+
+      </p>
     `
   },
 
@@ -9378,17 +9395,6 @@ Still living.
 
 Still moving forward.
 
-If my heart could speak, maybe it wouldn’t say anything dramatic at all.
-
-Maybe it would simply say:
-
-“I have been here all along. You just learned how to listen.”
-
-And that, I realized, was the real ending of my fear.
-
-Not silence.
-
-Understanding.
 
       </p>
       
@@ -9401,7 +9407,20 @@ Understanding.
     </div>
   </div>
   
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+      <p>
+      If my heart could speak, maybe it wouldn’t say anything dramatic at all.
+
+Maybe it would simply say:
+
+“I have been here all along. You just learned how to listen.”
+
+And that, I realized, was the real ending of my fear.
+
+Not silence.
+
+Understanding.
+
+      </p>
     `
   },
 
@@ -9597,6 +9616,18 @@ A simple understanding:
 
 No alarm.
 
+      </p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
+    </div>
+  </div>
+  
+      <p>
+      
 No urgency.
 
 Just awareness.
@@ -9614,16 +9645,6 @@ Not the end of symptoms.
 But the end of their authority over my peace.
 
       </p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3665/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product for you:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Garlic Allium Complex</a>
-    </div>
-  </div>
-  
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
@@ -9896,7 +9917,18 @@ Not feared.
 
 Just present.
 
-That realization brought a quiet sense of relief.
+   </p>
+      <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product for you:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
+    </div>
+  </div>
+  
+      <p>
+      That realization brought a quiet sense of relief.
 
 Because it meant the system was never broken.
 
@@ -9913,17 +9945,8 @@ Not about symptoms.
 Not about fear.
 
 But about living fully again without waiting for perfect health conditions first.
+   
       </p>
-      <div class="affiliate-box">
-    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/3402/landingpage_s.jpg" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product for you:</strong><br>
-      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Chaleted Cal-Mag</a>
-    </div>
-  </div>
-  
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
     },
 
