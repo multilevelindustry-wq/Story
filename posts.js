@@ -332,7 +332,7 @@ End of Chapter 1
 
   keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "My Blood Pressure Secret Nearly Ended My Career is an emotional health story about hidden hypertension symptoms, warning signs, lifestyle changes, and the journey to controlling high blood pressure.",
 
   author: "Dr. Thomas",
 
@@ -791,7 +791,7 @@ End of Chapter 2
 
   keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Discover how ignoring high blood pressure symptoms almost destroyed a successful career and learn important lessons about hypertension prevention, treatment, and healthy living.",
 
   author: "Dr. Thomas",
 
@@ -1218,7 +1218,7 @@ End of Chapter 3</p>
 
   keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "A powerful health story revealing the silent dangers of hypertension, unexpected blood pressure symptoms, medical warnings, and the lifestyle changes that saved a career.",
     
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
@@ -1639,7 +1639,7 @@ End of Chapter 4</p>
 
   keywords: "blood pressure story, hypertension symptoms, health mystery story, doctor story, medical fiction",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Learn from this inspiring blood pressure journey about stress, hidden health problems, early diagnosis, and how managing hypertension can protect your future.",
 
   image: "https://www.image2url.com/r2/default/images/1781021413124-3c528a21-4bc7-453b-a458-748db6cbd439.jpg",
 
