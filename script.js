@@ -169,20 +169,48 @@ if (postContent) {
   const post = posts.find(p => p.slug === slug);
 
   if (post) {
+
+    document.title = post.title;
+
+
+document.getElementById("seoDescription")
+.content =
+post.description;
+
+
+document.getElementById("seoKeywords")
+.content =
+post.keywords;
+
+
+document.getElementById("ogTitle")
+.content =
+post.title;
+
+
+document.getElementById("ogImage")
+.content =
+post.image;
   
   incrementViews(post.slug);
   
     document.title = post.title;
     
-    
-    
     const shareUrl =
   window.location.href;
 
-postContent.innerHTML = `
-  <img src="${post.image}" loading="lazy">
+    postContent.innerHTML = `
 
-  <h1>${post.title}</h1>
+<img 
+src="${post.image}" 
+alt="${post.alt}"
+loading="lazy">
+
+<h1>${post.title}</h1>
+
+<p class="seo-keywords">
+${post.keywords}
+</p>
 
   <div class="story-share">
 
@@ -229,7 +257,6 @@ postContent.innerHTML = `
   ${post.content}
 `;
 
-    
 
     loadRelated(post.slug);
     
@@ -276,7 +303,7 @@ function loadRelated(currentSlug) {
   // Shuffle posts randomly
   const shuffled = filteredPosts.sort(() => 0.5 - Math.random());
 
-  // Pick first 5 random posts
+  // Pick first 10 random posts
   const randomPosts = shuffled.slice(0, 10);
 
   randomPosts.forEach((p, index) => {
@@ -533,6 +560,4 @@ function loadChapterNavigation(currentPost) {
   nav.innerHTML = html;
 }
 
-   
-
- 
+  
