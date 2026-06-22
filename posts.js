@@ -7500,7 +7500,13 @@ The silent relationship between the heart and the pressure inside the blood vess
   chapter: 15,
 
   title: "Chapter 15: The Number on the Blood Pressure Machine",
+  
+  alt: "medical drama about nighttime heart problems, educational health story about palpitations, inspiring heart health recovery story, emotional medical story about sleep problems, heartbeat mystery story with health lessons ",
 
+  keywords: "heartbeat interrupted my sleep chapter 1, heartbeat interrupted my sleep full story, why my heartbeat kept interrupting my sleep chapter, health fiction story about heart symptoms, doctor story about mysterious heartbeat ",
+
+  description: " ",
+      
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
   excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 15 - By Dr Paul",
@@ -7808,6 +7814,12 @@ Could something I was taking be affecting my heartbeat?
   chapter: 16,
 
   title: "Chapter 16: The Medicine Cabinet Mystery",
+
+  alt: " healthy sleep habits for heart protection, heart-friendly bedtime routine, reducing nighttime stress naturally, calming techniques for racing heart, peaceful sleep after heart concerns",
+
+  keywords: " how sleep affects your heart health, connection between insomnia and heart rate, poor sleep causing heartbeat changes, stress sleep cycle and heart connection, why sleep quality affects heartbeat",
+
+  description: " ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8122,6 +8134,12 @@ Because I wanted to protect the heart that had carried me through everything.
 
   title: "Chapter 17: The Family History That Changed My Thinking",
 
+  alt: "heartbeat and sleep problems in adults, nighttime heart symptoms in men nighttime heart symptoms in women, causes of heart racing in older adults, young people experiencing heart palpitations",
+
+  keywords: " stress-related heartbeat problems, lifestyle causes of irregular heartbeat, common sleep-related heart issues, why heartbeat feels different at night, heart rhythm changes explained medically",
+
+  description: " ",
+      
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
   excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 17 - By Dr Paul",
@@ -8419,6 +8437,12 @@ The signs that could mean the body was asking for urgent help.
 
   title: "Chapter 18: The Symptoms I Should Never Ignore",
 
+  alt: "silent heart symptoms people ignore, protecting your heart while sleeping, understanding nighttime body signals, listening to your heart warning signs, heart awareness story for adults",
+
+  keywords: "symptoms of heart problems during sleep, early heart disease signs at night, nighttime chest sensations explained, heart health mistakes people make, warning signs hidden during sleep",
+
+  description: " ",
+
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
   excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 18 - By Dr Paul",
@@ -8675,6 +8699,12 @@ And I was about to discover how everyday surroundings could influence long-term 
   chapter: 19,
 
   title: "Chapter 19: The Things Around Me Affecting My Heart",
+
+  alt: " why my heart beats fast when I relax, heart racing when trying to sleep causes, sudden heartbeat increase during the night, sleep interrupted by fast heartbeat symptoms, mysterious heartbeat problems",
+
+  keywords: "why does my heartbeat wake me up suddenly, heart pounding wakes me from sleep every night, feeling heartbeat strongly before falling asleep, unusual heartbeat sensations during bedtime, nighttime palpitations and sleep disturbance causes",
+
+  description: " ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8945,6 +8975,12 @@ And that would become the final stage of my journey.
   chapter: 20,
 
   title: "Chapter 20: Building a Stronger Heart and Mind",
+
+  alt: "heartbeat fear affecting my life, how I solved my nighttime heartbeat issue, discovering the cause of my sleep problem, health lesson from my racing heartbeat, my journey to better heart health ",
+
+  keywords: "my heartbeat scared me at midnight, midnight racing heart experience, waking up feeling heart pounding, sleeping difficulty due to heartbeat, heart anxiety keeping me awake",
+
+  description: " ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -9225,6 +9261,12 @@ If my heartbeat could speak, what was it trying to tell me all along
   chapter: 21,
 
   title: "Chapter 21: If My Heart Could Speak",
+
+  alt: " stress hormones affecting heartbeat at night, calming anxiety to improve sleep and heartbeat, relaxation methods for nighttime heart racing, breathing exercises for racing heartbeat before sleep, reducing stress-related heart symptoms naturally",
+
+  keywords: " heart palpitations caused by emotional stress, stress making my heartbeat interrupt sleep, relationship between anxiety and nighttime heartbeat, fear causing racing heart while sleeping, panic symptoms mistaken for heart problems",
+
+  description: " Why My Heartbeat Kept Interrupting My Sleep is a powerful health story about discovering the hidden reasons behind nighttime heart racing, palpitations, and sleep problems. Learn the warning signs your body may be showing.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -9548,6 +9590,12 @@ Understanding.
 
   title: "Chapter 22: The Quiet That Stayed",
 
+  alt: " causes of irregular heartbeat before sleep, nighttime heart fluttering explained, strange heart rhythm while lying down, feeling my heartbeat in my chest at night, strong heartbeat sensation keeping me awake",
+
+  keywords: "why do I wake up with a pounding chest, heart beating fast after sleeping for hours, waking up at night with heart fluttering, heartbeat feels abnormal while resting in bed, why my heart skips beats at night ",
+
+  description: " A mysterious heartbeat problem changed everything. This health story explores why sudden heart pounding, irregular beats, and nighttime symptoms should never be ignored.",
+
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
   excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 22 - By Dr Paul",
@@ -9771,6 +9819,12 @@ But the end of their authority over my peace.
   chapter: 23,
 
   title: "Chapter 23: When Normal Feelings Stop Feeling Dangerous",
+
+  alt: " my journey from fear to understanding my heartbeat, a health story about listening to body signals, lessons learned from nighttime heart symptoms, how I discovered my heart problem early, the night my heartbeat changed everything",
+
+  keywords: "heartbeat problems I ignored for years, warning signs my body gave me at night, the hidden reason behind my racing heart, my scary experience with nighttime palpitations, what my heartbeat revealed about my health ",
+
+  description: " Every night, my heartbeat interrupted my sleep until I discovered the possible causes behind it. Read this emotional health journey filled with lessons about heart awareness and wellness.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -10074,6 +10128,12 @@ But about living fully again without waiting for perfect health conditions first
 
   title: "Chapter 24: Learning to Live Without Waiting for Perfect Health",
 
+  alt: "lifestyle habits affecting nighttime heart rhythm, unhealthy habits causing sleep heartbeat problems, improving heart rhythm through lifestyle changes, daily routine affecting nighttime heartbeat, bedtime habits that support heart health  ",
+
+  keywords: "caffeine effects on heartbeat during sleep, coffee causing heart racing at night, foods that trigger nighttime palpitations, alcohol and heartbeat changes during sleep, dehydration causing unusual heartbeat sensations ",
+
+  description: " What does it mean when your heart suddenly races while sleeping? This story reveals common causes of nighttime palpitations and important health lessons.",
+
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
   excerpt: "Why My Heartbeat Kept Interrupting My Sleep chapter 24 - By Dr Paul",
@@ -10357,6 +10417,12 @@ It was about becoming someone who understands everything differently.
   chapter: 25,
 
   title: "Chapter 25: The Heart That Never Really Stopped Talking",
+
+  alt: " understanding heart health and sleep quality, cardiovascular health mistakes affecting sleep, protecting your heart while sleeping at night, simple heart health tips before bedtime, preventing nighttime heart rhythm problems",
+
+  keywords: "can high blood pressure cause nighttime heartbeat, blood pressure and sleeping heart rate connection, hypertension symptoms related to sleep problems, heart rate changes caused by blood pressure issues, monitoring blood pressure after nighttime palpitations ",
+
+  description: " My heartbeat was trying to tell me something. Discover how sleep interruptions, stress, lifestyle, and heart health are connected in this inspiring medical story.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
