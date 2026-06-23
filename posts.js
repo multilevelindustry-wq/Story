@@ -4583,7 +4583,7 @@ End of Chapter 5
 
   keywords: "personal story about heart rhythm problems, symptoms I ignored before heart diagnosis, my journey with nighttime heart racing, what my heartbeat was trying to tell me, scary heartbeat symptoms during sleep",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "My sleep was affected by a heartbeat problem I didn’t understand. This educational story reveals important lessons about heart awareness and wellness.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -4917,7 +4917,7 @@ And what she revealed would change not only my sleep, but my understanding of ho
 
   keywords: "why my heartbeat feels abnormal at night, heart rhythm changes while resting, nighttime cardiovascular warning signs, how doctors diagnose heart palpitations, tests for unexplained heartbeat problems",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Nighttime heart problems can be confusing and worrying. Discover the possible reasons behind sudden heartbeat changes during rest.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -5247,7 +5247,7 @@ And just like that, another chapter of the mystery began.
 
   keywords: "sudden heart pounding during relaxation, heart beating hard but no pain at night, unexplained nighttime heartbeat episodes, frequent waking because of racing heart, sleep interruption caused by heart rhythm",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "When my heartbeat started interrupting my sleep, I searched for answers. This story shares valuable insights about heart health and nighttime symptoms.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -5573,7 +5573,7 @@ It is the system controlling it.
 
   keywords: "why my heart wakes me before my alarm, sleep cycle and heartbeat changes, deep sleep interrupted by racing pulse, unusual heartbeat patterns during sleep, nighttime heart health awareness story",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "This inspiring health story explores the journey of understanding racing heartbeat, sleep problems, and better heart care.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -5920,7 +5920,7 @@ My blood.
 
   keywords: "panic attack or heart problem at night, anxiety heartbeat symptoms while sleeping, stress hormones and nighttime heart rate, emotional stress causing heart pounding, relaxation techniques for nighttime heartbeat",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "A strange feeling in my chest at night led to a deeper health discovery. Learn about common causes of nighttime palpitations and sleep disruption.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -6231,7 +6231,7 @@ And like every muscle, it needs the right kind of training.
 
   keywords: "hydration and healthy heartbeat balance, sleep routine for cardiovascular wellness, managing nighttime heart symptoms naturally, heart health habits before bedtime, preventing sleep disturbance from heartbeat",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "My heartbeat became the reason I couldn’t sleep. Discover the lessons behind this health mystery and the importance of paying attention to warning signs.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -6563,7 +6563,7 @@ and becoming trapped by it.
 
   keywords: "skipped heartbeat feeling at night, extra heartbeat sensations while sleeping, occasional racing heartbeat during sleep, recurring nighttime palpitations causes, unexplained pulse changes at night",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "From sleepless nights to health discovery, this story explains the connection between heart rhythm, stress, and quality sleep.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -6876,7 +6876,7 @@ I wanted to understand how to stop it from returning.
 
   keywords: "true inspired health story about heartbeat, emotional story about overcoming heart fears, heartbeat problem changed my life story, sleep problems revealing health issues, the night my heartbeat scared me",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "This emotional medical story reveals how nighttime heart symptoms affected my life and what I learned about listening to my body.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -7212,7 +7212,7 @@ They could help someone else.
 
   keywords: "early warning signs of heart issues, heart problems discovered through sleep symptoms, how sleep reveals heart health problems, my health transformation after heartbeat issues, lessons from nighttime heart symptoms",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Why does your heart sometimes beat harder at night? This powerful story explores possible triggers, lifestyle factors, and important heart health lessons.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -7505,7 +7505,7 @@ The silent relationship between the heart and the pressure inside the blood vess
 
   keywords: "heartbeat interrupted my sleep chapter 1, heartbeat interrupted my sleep full story, why my heartbeat kept interrupting my sleep chapter, health fiction story about heart symptoms, doctor story about mysterious heartbeat ",
 
-  description: " ",
+  description: " A heartbeat that keeps waking you up may feel scary. Learn from this personal health journey about understanding symptoms and seeking answers.",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -7819,7 +7819,7 @@ Could something I was taking be affecting my heartbeat?
 
   keywords: " how sleep affects your heart health, connection between insomnia and heart rate, poor sleep causing heartbeat changes, stress sleep cycle and heart connection, why sleep quality affects heartbeat",
 
-  description: " ",
+  description: "The hidden cause behind my interrupted sleep was finally revealed. This story explains heart rhythm, stress, sleep quality, and health awareness. ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8138,7 +8138,7 @@ Because I wanted to protect the heart that had carried me through everything.
 
   keywords: " stress-related heartbeat problems, lifestyle causes of irregular heartbeat, common sleep-related heart issues, why heartbeat feels different at night, heart rhythm changes explained medically",
 
-  description: " ",
+  description: "My peaceful nights disappeared because of a strange heartbeat sensation. Read this educational health story about recognizing symptoms and protecting your heart. ",
       
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8441,7 +8441,7 @@ The signs that could mean the body was asking for urgent help.
 
   keywords: "symptoms of heart problems during sleep, early heart disease signs at night, nighttime chest sensations explained, heart health mistakes people make, warning signs hidden during sleep",
 
-  description: " ",
+  description: "Waking up with a racing heart can be frightening. Explore possible reasons behind nighttime heartbeat changes and what your body may be communicating. ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8704,7 +8704,7 @@ And I was about to discover how everyday surroundings could influence long-term 
 
   keywords: "why does my heartbeat wake me up suddenly, heart pounding wakes me from sleep every night, feeling heartbeat strongly before falling asleep, unusual heartbeat sensations during bedtime, nighttime palpitations and sleep disturbance causes",
 
-  description: " ",
+  description: "A shocking nighttime experience led me to understand my heart better. Learn about heartbeat changes, warning signs, and ways to support better sleep. ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -8980,7 +8980,7 @@ And that would become the final stage of my journey.
 
   keywords: "my heartbeat scared me at midnight, midnight racing heart experience, waking up feeling heart pounding, sleeping difficulty due to heartbeat, heart anxiety keeping me awake",
 
-  description: " ",
+  description: "This health story follows a journey from fear and confusion to understanding why heart palpitations kept disturbing sleep and affecting daily life. ",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
