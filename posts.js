@@ -3403,7 +3403,7 @@ End of Chapter 5
 
   keywords: "heart palpitations disturbing sleep causes, fast heartbeat during sleep symptoms, waking up with racing heart at night, why heart beats hard before sleeping, nighttime heart palpitations health story",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "A powerful story about fear, discovery, and healing. Learn how nighttime heartbeat symptoms can affect sleep and why awareness matters.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -3606,7 +3606,7 @@ End of Chapter 1
 
   keywords: "my heartbeat kept waking me up medical story, strange heartbeat sensations while sleeping, causes of pounding heartbeat at night, anxiety and heartbeat problems during sleep, heart racing at night but normal during day",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Why was my heart racing when I was supposed to be resting? This story explains possible causes and the importance of understanding your body.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -3845,7 +3845,7 @@ End of Chapter 2
 
   keywords: "how to stop heartbeat from disturbing sleep, natural ways to calm heart before sleeping, reasons for waking up with heart pounding, heart palpitations and poor sleep connection, sleep and cardiovascular health problems",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "This health mystery shows how small body signals can reveal bigger health concerns. Explore the connection between sleep and heartbeat changes.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -4127,7 +4127,7 @@ End of Chapter 3
 
   keywords: "heart awareness while lying in bed, why my chest feels like heartbeat is loud, heartbeat disturbance affecting sleep quality, health story about nighttime heart problems, hidden causes of sleep interruption by heartbeat",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "A repeated nighttime heartbeat disturbance became a wake-up call. Learn how recognizing symptoms early can help improve heart health awareness.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
@@ -4383,7 +4383,7 @@ End of Chapter 4
 
   keywords: "blood pressure and nighttime heartbeat connection, high blood pressure causing sleep heartbeat issues, thyroid problems and racing heartbeat at night, sleep apnea and irregular heartbeat symptoms, heart rhythm disorder affecting sleep",
 
-  description: "A powerful health story about blood pressure symptoms, hidden warning signs, and a life-changing discovery.",
+  description: "Why My Heartbeat Kept Interrupting My Sleep is an engaging health story combining mystery, education, and real-life lessons about heart health, sleep, and listening to your body.",
 
   image: "https://www.image2url.com/r2/default/images/1781201407942-eae32338-67b1-4b38-b149-56e9cb770110.jpg",
 
