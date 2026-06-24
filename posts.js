@@ -3391,21 +3391,21 @@ End of Chapter 5
   },
 
     {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-6",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 6,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 6: The Fall That Revealed The Truth",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 6 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 6: The Fall That Revealed The Truth
+    
 
 Michael arrived at his mother's house before sunrise.
 
@@ -3678,21 +3678,21 @@ End of Chapter 6
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-7",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 7,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 7: The Warning Hidden In The Numbers",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 7 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 7: The Warning Hidden In The Numbers
+    
 
 Michael sat in the doctor's office, staring at the folder in the doctor's hands.
 
@@ -4132,21 +4132,21 @@ End of Chapter 7
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-8",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 8,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 8: The Secret Angela Kept Every Night",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 8 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 8: The Secret Angela Kept Every Night
+    
 
 Michael had spent months learning to listen.
 
@@ -4555,21 +4555,21 @@ End of Chapter 8
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-9",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 9,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 9: The Problem Hidden Behind A Smile",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 9 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 9: The Problem Hidden Behind A Smile
+    
 
 Michael stood in front of the bathroom mirror, looking at the small amount of blood on his toothbrush.
 
@@ -4871,22 +4871,21 @@ End of Chapter 9
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-10",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 10,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 10: The Silent Filter Under Pressure",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 10 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 10: The Silent Filter Under Pressure
-
+    
 Michael sat in the doctor's office with a familiar feeling.
 
 Not fear exactly.
@@ -5238,21 +5237,21 @@ End of Chapter 10
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-11",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 11,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 11: The Tingling That Would Not Disappear",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 11 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 11: The Tingling That Would Not Disappear
+    
 
 Michael had always believed numbness was something that happened after sitting in one position too long.
 
@@ -5652,21 +5651,21 @@ End of Chapter 11
   },
 
   {
-  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
+  slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-12",
 
   series: "The Machine At The Pharmacy Told A Different Story",
 
   chapter: 12,
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  title: "Chapter 12: The Pressure Nobody Could Measure",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 12 - by Dr Evelyn",
 
   content: `
     <p>
-    Chapter 12: The Pressure Nobody Could Measure
+    
 
 Michael thought he understood pressure.
 
