@@ -172,6 +172,18 @@ if (postContent) {
 
     document.title = post.title;
 
+    // CREATE CANONICAL URL
+
+const canonical =
+document.getElementById("canonicalURL");
+
+
+canonical.href =
+window.location.href;
+
+
+
+document.title = post.title;
 
 document.getElementById("seoDescription")
 .content =
